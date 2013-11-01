@@ -1,0 +1,30 @@
+# префиксы используемые dbpedia
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+PREFIX dc: <http://purl.org/dc/elements/1.1/>
+PREFIX : <http://dbpedia.org/resource/>
+PREFIX dbpedia2: <http://dbpedia.org/property/>
+PREFIX dbpedia: <http://dbpedia.org/>
+PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
+PREFIX do: <http://dbpedia.org/ontology/>
+
+# список актеров о которых есть информация в википедии на русском
+SELECT DISTINCT "actors" ?name MAX(?birthDate) MAX(?birthPlaceRu) MAX(?yearsActive)
+WHERE { 
+   ?a dbpedia2:occupation :Actor .# актеров пожалуйста
+   ?a do:birthDate ?birthDate .# их дату рождения
+   ?a dbpedia2:yearsActive ?yearsActive . # их дату начала актерской жизни
+   ?a rdfs:label ?name ;# их имена
+      do:birthPlace ?birthPlace .# ссылка на место рождения
+   ?birthPlace rdf:type do:Country .# только страны рождения
+   ?birthPlace rdfs:label ?birthPlaceRu .# название страны рождения
+   filter(langMatches(lang(?birthPlaceRu), "ru"))# только страны на русском
+   filter(langMatches(lang(?name), "ru"))# только имена на русском
+   filter( isNumeric(?yearsActive) && (?yearsActive < 3000) )# фильтр по дате активности
+}
+GROUP BY ?name #у некоторых актеров несколько дат и мест рождения,  их нужно убрать
+ORDER BY 2
+
