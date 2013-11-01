@@ -1,0 +1,998 @@
+#тип, название, происхождение,  год образования, размер состава группы
+"bands";"Versailles";"Япония",2007,3
+"bands";"Magma";"Франция",1969,10
+"bands";"ABBA";"Швеция",1972,4
+"bands";"Amorphis";"Финляндия",1990,5
+"bands";"Anathema";"Англия",1990,6
+"bands";"Aphrodite’s Child";"Греция",1967,3
+"bands";"BWO";"Швеция",2003,3
+"bands";"Bathory";"Швеция",1983,2
+"bands";"Battlelore";"Финляндия",1999,3
+"bands";"Brooklyn Bounce";"Германия",1996,1
+"bands";"Camel (группа)";"Англия",1991,20
+"bands";"Children of Bodom";"Финляндия",1993,1
+"bands";"Clannad (группа)";"Ирландия",1970,1
+"bands";"Current 93";"Великобритания",1982,3
+"bands";"Darkthrone";"Норвегия",1986,2
+"bands";"Deicide";"Соединённые Штаты Америки",1987,3
+"bands";"Dimmu Borgir";"Норвегия",1993,1
+"bands";"Don Caballero";"Соединённые Штаты Америки",1991,4
+"bands";"Einstürzende Neubauten";"Германия",1980,5
+"bands";"Eruption";"Кюрасао",1975,4
+"bands";"Feeling B";"Германия",2007,6
+"bands";"Finntroll";"Финляндия",1997,3
+"bands";"Hawkwind";"Англия",1969,1
+"bands";"High Tide";"Англия",1989,2
+"bands";"Jaga Jazzist";"Норвегия",1994,4
+"bands";"Kraftwerk";"Германия",1970,8
+"bands";"LFO";"Англия",2003,2
+"bands";"Lard";"Соединённые Штаты Америки",1988,5
+"bands";"Loituma";"Финляндия",1989,2
+"bands";"Lordi";"Финляндия",1992,7
+"bands";"Love (группа)";"Соединённые Штаты Америки",1965,2
+"bands";"Mayhem";"Норвегия",1984,1
+"bands";"Ministry";"Соединённые Штаты Америки",1981,15
+"bands";"Moloko";"Англия",1995,2
+"bands";"Nazareth";"Шотландия",1968,6
+"bands";"Neu!";"Германия",1985,16
+"bands";"Nightwish";"Финляндия",1996,3
+"bands";"Nine Inch Nails";"Соединённые Штаты Америки",1988,1
+"bands";"Opeth";"Швеция",1990,1
+"bands";"Revolting Cocks";"Соединённые Штаты Америки",1985,8
+"bands";"Rites of Spring";"Соединённые Штаты Америки",1984,3
+"bands";"Simon and Garfunkel";"Соединённые Штаты Америки",2003,4
+"bands";"Skid Row";"Соединённые Штаты Америки",1986,1
+"bands";"Sneaker Pimps";"Великобритания",1994,6
+"bands";"Soul Embraced";"Соединённые Штаты Америки",1997,1
+"bands";"Space";"Франция",1982,4
+"bands";"System of a Down";"Соединённые Штаты Америки",1994,1
+"bands";"The Alan Parsons Project";"Великобритания",1975,2
+"bands";"The Connells";"Соединённые Штаты Америки",1984,2
+"bands";"Tiamat";"Швеция",1987,1
+"bands";"Tortoise";"Соединённые Штаты Америки",1990,2
+"bands";"Turbonegro";"Норвегия",1989,4
+"bands";"UK (группа)";"Англия",1977,2
+"bands";"Ulver";"Норвегия",1993,7
+"bands";"Underworld";"Англия",1980,1
+"bands";"Vennaskond";"Эстония",1984,1
+"bands";"Venom";"Англия",1979,1
+"bands";"Weather Report";"Соединённые Штаты Америки",1970,28
+"bands";"Автоматические удовлетворители";"Союз Советских Социалистических Республик",1979,1
+"bands";"Агата Кристи (группа)";"Союз Советских Социалистических Республик",1988,10
+"bands";"Ария (группа)";"Союз Советских Социалистических Республик",1985,14
+"bands";"ВИА Гра";"Украина",2000,10
+"bands";"Вопли Видоплясова";"Украина",1986,1
+"bands";"ДДТ (группа)";"Союз Советских Социалистических Республик",1980,8
+"bands";"Кино (группа)";"Союз Советских Социалистических Республик",1981,4
+"bands";"Машина времени (группа)";"Союз Советских Социалистических Республик",1969,3
+"bands";"Непоседы";"Россия",1991,4
+"bands";"3 (группа)";"Соединённые Штаты Америки",1994,2
+"bands";"Ace of Base";"Швеция",1987,2
+"bands";"Ночные снайперы";"Россия",1993,1
+"bands";"Aghora";"Соединённые Штаты Америки",1995,2
+"bands";"Aksak Maboul";"Бельгия",1977,8
+"bands";"All Saints";"Англия",2006,16
+"bands";"Океан Ельзи";"Украина",1994,3
+"bands";"Amon Düül";"Германия",1967,1
+"bands";"Apocalyptica";"Финляндия",1993,2
+"bands";"Arabesque";"Германия",1977,1
+"bands";"Arch Enemy";"Швеция",1996,5
+"bands";"Arcturus (группа)";"Норвегия",1987,1
+"bands";"Bad Balance";"Россия",1989,1
+"bands";"Bal-Sagoth";"Англия",1989,2
+"bands";"Brainstorm (латвийская группа)";"Латвия",1989,2
+"bands";"Brazzaville";"Соединённые Штаты Америки",1998,1
+"bands";"Buena Vista Social Club";"Куба",1996,9
+"bands";"Carpathian Forest";"Норвегия",1990,1
+"bands";"Charon (группа)";"Финляндия",1992,2
+"bands";"Crash Test Dummies";"Канада",1988,3
+"bands";"Dark Tranquillity";"Швеция",1989,3
+"bands";"Dave Matthews Band";"Соединённые Штаты Америки",1991,3
+"bands";"Dead Can Dance";"Австралия",1981,2
+"bands";"Diablo Swing Orchestra";"Швеция",2003,1
+"bands";"Die Krupps";"Германия",1980,9
+"bands";"Die Verbannten Kinder Evas";"Австрия",1993,1
+"bands";"Dixie Chicks";"Соединённые Штаты Америки",1989,2
+"bands";"Draconian";"Швеция",1994,1
+"bands";"D’espairsRay";"Япония",1999,1
+"bands";"Emperor";"Норвегия",1991,3
+"bands";"Ensiferum";"Финляндия",1995,6
+"bands";"Enslaved";"Норвегия",1991,1
+"bands";"Enslavement of Beauty";"Норвегия",1995,1
+"bands";"Epica";"Нидерланды",2002,3
+"bands";"Eternal Tears of Sorrow";"Финляндия",1994,1
+"bands";"Fall Out Boy";"Соединённые Штаты Америки",2001,1
+"bands";"Парк Горького (группа)";"Россия",1987,1
+"bands";"Focus (группа)";"Нидерланды",2001,18
+"bands";"Front Line Assembly";"Канада",1986,12
+"bands";"Gamma Ray";"Германия",1989,6
+"bands";"Gipsy Kings";"Франция",1978,2
+"bands";"Godsmack";"Соединённые Штаты Америки",1995,1
+"bands";"Godspeed You! Black Emperor";"Канада",1994,1
+"bands";"Guru Guru";"Германия",1968,5
+"bands";"Iced Earth";"Соединённые Штаты Америки",1985,1
+"bands";"Juli";"Германия",2001,2
+"bands";"Kalmah";"Финляндия",1998,1
+"bands";"Kaoma";"Бразилия",1989,1
+"bands";"Killswitch Engage";"Соединённые Штаты Америки",1999,3
+"bands";"Lake of Tears";"Швеция",2003,6
+"bands";"Liquid Tension Experiment";"Соединённые Штаты Америки",1997,4
+"bands";"Malice Mizer";"Япония",1992,3
+"bands";"Manic Street Preachers";"Уэльс",1986,1
+"bands";"Marduk";"Швеция",1990,2
+"bands";"Maroon 5";"Соединённые Штаты Америки",1994,4
+"bands";"Mecano";"Испания",1981,3
+"bands";"Mechanical Poet";"Россия",2002,1
+"bands";"Mew";"Дания",1994,1
+"bands";"Mis-Teeq";"Великобритания",1999,4
+"bands";"Moi dix Mois";"Япония",2002,2
+"bands";"Moonspell";"Португалия",1992,1
+"bands";"Nailbomb";"Бразилия",1994,2
+"bands";"New Kids on the Block";"Соединённые Штаты Америки",2008,4
+"bands";"Nick Cave and the Bad Seeds";"Австралия",1983,7
+"bands";"Oi Va Voi";"Англия",2000,2
+"bands";"Porcupine Tree";"Англия",1987,1
+"bands";"Premiata Forneria Marconi";"Италия",1970,7
+"bands";"Rotting Christ";"Греция",1987,2
+"bands";"Rush";"Канада",1968,2
+"bands";"Samsas Traum";"Германия",1996,4
+"bands";"Satyricon";"Норвегия",1991,4
+"bands";"Sharks Keep Moving";"Соединённые Штаты Америки",1997,6
+"bands";"Shocking Blue";"Нидерланды",1967,2
+"bands";"Skrewdriver";"Англия",1976,1
+"bands";"Snog";"Австралия",1988,3
+"bands";"Steppenwolf";"Соединённые Штаты Америки",1980,6
+"bands";"Sugababes";"Англия",1998,3
+"bands";"Sylver";"Бельгия",2000,1
+"bands";"The Feelies";"Соединённые Штаты Америки",1976,1
+"bands";"The Fugees";"Соединённые Штаты Америки",1992,3
+"bands";"The Kovenant";"Норвегия",1999,2
+"bands";"The Moody Blues";"Англия",1977,10
+"bands";"The Nice";"Англия",1967,4
+"bands";"The Replacements";"Соединённые Штаты Америки",1979,6
+"bands";"The Sisters of Mercy";"Англия",1987,16
+"bands";"The Streets";"Англия",1994,3
+"bands";"The Tears";"Англия",2004,3
+"bands";"The Ventures";"Соединённые Штаты Америки",1958,9
+"bands";"Theatre of Tragedy";"Норвегия",1993,5
+"bands";"Thursday";"Соединённые Штаты Америки",1997,1
+"bands";"Type O Negative";"Соединённые Штаты Америки",1989,5
+"bands";"Vacuum";"Швеция",1996,2
+"bands";"Warlock";"Германия",1982,10
+"bands";"Westlife";"Ирландия",1998,5
+"bands";"Wishbone Ash";"Великобритания",1969,1
+"bands";"Within Temptation";"Нидерланды",1996,4
+"bands";"Won James Won";"Россия",2003,5
+"bands";"Yaki-Da";"Швеция",1994,2
+"bands";"Zdob și Zdub";"Молдавия",1994,2
+"bands";"Zone";"Япония",1999,2
+"bands";"Änglagård";"Швеция",1991,1
+"bands";"Чёрный Кофе (группа)";"Союз Советских Социалистических Республик",1979,1
+"bands";"Иванушки International";"Россия",1994,1
+"bands";"Сонни и Шер";"Соединённые Штаты Америки",1964,2
+"bands";"’N Sync";"Соединённые Штаты Америки",1995,5
+"bands";"Флоридский филармонический оркестр";"Соединённые Штаты Америки",1985,3
+"bands";"Баварский государственный оркестр";"Германия",1523,1
+"bands";"Симфонический оркестр Франкфуртского радио";"Германия",1929,1
+"bands";"Чешский филармонический оркестр";"Чехия",1896,1
+"bands";"45 Grave";"Соединённые Штаты Америки",2005,12
+"bands";"Aesma Daeva";"Соединённые Штаты Америки",1998,5
+"bands";"Alexisonfire";"Канада",2001,5
+"bands";"Altaria";"Финляндия",2000,3
+"bands";"Amen (группа)";"Соединённые Штаты Америки",1994,8
+"bands";"Antestor";"Норвегия",1990,2
+"bands";"Antimatter (группа)";"Англия",1998,1
+"bands";"Apollo 440";"Англия",1990,3
+"bands";"Apulanta";"Финляндия",1991,3
+"bands";"Arcana (группа)";"Швеция",1994,1
+"bands";"Archive";"Англия",1994,2
+"bands";"Aswad";"Англия",1975,1
+"bands";"At the Gates";"Швеция",1990,1
+"bands";"Athena";"Турция",1987,8
+"bands";"Bad Manners";"Англия",1976,1
+"bands";"Band From TV";"Соединённые Штаты Америки",2006,8
+"bands";"Basic Element";"Швеция",1993,1
+"bands";"Beyond Twilight";"Дания",1999,2
+"bands";"Black Label Society";"Соединённые Штаты Америки",1998,9
+"bands";"Bloodbath";"Швеция",1998,3
+"bands";"Bloodbound";"Швеция",2004,7
+"bands";"Blue October";"Соединённые Штаты Америки",1995,6
+"bands";"Buckcherry";"Соединённые Штаты Америки",1995,1
+"bands";"Bucks Fizz";"Великобритания",2004,2
+"bands";"Carolina Liar";"Соединённые Штаты Америки",2006,1
+"bands";"Cathedral (группа)";"Англия",1989,1
+"bands";"Chrome Division";"Норвегия",2004,2
+"bands";"Clock DVA";"Англия",1978,5
+"bands";"Culture Beat";"Германия",1989,6
+"bands";"Dead or Alive (группа)";"Англия",1980,6
+"bands";"Deee-Lite";"Соединённые Штаты Америки",1990,2
+"bands";"Disbelief";"Германия",1990,3
+"bands";"Discharge";"Англия",1977,2
+"bands";"Divinyls";"Австралия",1980,7
+"bands";"Does It Offend You, Yeah?";"Англия",2006,1
+"bands";"Dream Evil";"Швеция",1992,4
+"bands";"Drowning Pool";"Соединённые Штаты Америки",1996,3
+"bands";"ELO Part II";"Англия",1989,9
+"bands";"Edda";"Венгрия",1973,6
+"bands";"Edgar Broughton Band";"Англия",1968,1
+"bands";"Eisbrecher";"Германия",2003,1
+"bands";"Eleven";"Соединённые Штаты Америки",1990,5
+"bands";"Evile";"Англия",2004,1
+"bands";"Fates Warning";"Соединённые Штаты Америки",1983,5
+"bands";"First Arsch";"Германия",1986,4
+"bands";"Funeral Mist";"Швеция",1993,2
+"bands";"Симфонический оркестр Датского радио";"Дания",1925,1
+"bands";"Сиднейский симфонический оркестр";"Австралия",1932,1
+"bands";"GusGus";"Исландия",1995,2
+"bands";"H-Blockx";"Германия",1991,1
+"bands";"H.E.A.T";"Швеция",2007,1
+"bands";"Hazel";"Соединённые Штаты Америки",1992,3
+"bands";"Hellhammer (группа)";"Швейцария",1982,2
+"bands";"Impaled Nazarene";"Финляндия",1990,6
+"bands";"Inca Babies";"Англия",2011,2
+"bands";"Iron Savior";"Германия",1996,4
+"bands";"Johnny Kidd & The Pirates";"Англия",1959,34
+"bands";"Josef K";"Шотландия",1979,2
+"bands";"Kagrra;";"Япония",1998,1
+"bands";"Keep of Kalessin";"Норвегия",2005,3
+"bands";"Kingdom Come";"Соединённые Штаты Америки",1987,8
+"bands";"Kraan";"Германия",1970,7
+"bands";"Kula Shaker";"Англия",1995,1
+"bands";"Leftover Crack";"Соединённые Штаты Америки",2000,1
+"bands";"Lillix";"Канада",1997,6
+"bands";"Новый Японский филармонический оркестр";"Япония",1972,1
+"bands";"Mahavishnu Orchestra";"Соединённые Штаты Америки",1971,14
+"bands";"Megaherz";"Германия",1993,3
+"bands";"Mercyful Fate";"Дания",1981,3
+"bands";"Monsta Island Czars";"Соединённые Штаты Америки",1997,8
+"bands";"Mortician";"Соединённые Штаты Америки",1989,3
+"bands";"Necrophagia";"Соединённые Штаты Америки",1983,2
+"bands";"Negu Gorriak";"Испания",2001,10
+"bands";"Nerf Herder";"Соединённые Штаты Америки",2005,2
+"bands";"Neurosis";"Соединённые Штаты Америки",1985,3
+"bands";"No Means No";"Канада",1979,2
+"bands";"Nocturnus";"Соединённые Штаты Америки",2000,4
+"bands";"Nox (группа)";"Венгрия",2002,1
+"bands";"Лос-Анджелесский филармонический оркестр";"Соединённые Штаты Америки",1919,2
+"bands";"Office of Strategic Influence";"Соединённые Штаты Америки",2002,1
+"bands";"Oi Polloi";"Шотландия",1981,1
+"bands";"Orange Juice";"Шотландия",1979,2
+"bands";"Pendragon";"Англия",1978,1
+"bands";"Pestilence";"Нидерланды",2008,16
+"bands";"Pink Fairies";"Англия",1970,4
+"bands";"Plasmatics";"Соединённые Штаты Америки",1977,10
+"bands";"Plastic Ono Band";"Великобритания",2009,42
+"bands";"13th Floor Elevators";"Соединённые Штаты Америки",1965,3
+"bands";"Primal Fear";"Германия",1997,4
+"bands";"Pussy Galore";"Соединённые Штаты Америки",1985,4
+"bands";"Pylon";"Соединённые Штаты Америки",1978,1
+"bands";"Quarashi";"Исландия",1996,2
+"bands";"Radio Birdman";"Австралия",1996,12
+"bands";"Raphael";"Япония",1997,1
+"bands";"Razorlight";"Англия",2002,12
+"bands";"Red House Painters";"Соединённые Штаты Америки",1989,1
+"bands";"Riot";"Соединённые Штаты Америки",1988,2
+"bands";"Riva";"Социалистическая Республика Хорватия",1988,10
+"bands";"Riverside";"Польша",2001,1
+"bands";"Rubella Ballet";"Англия",1979,1
+"bands";"Ruoska";"Финляндия",2002,3
+"bands";"Savatage";"Соединённые Штаты Америки",1978,4
+"bands";"Scary Kids Scaring Kids";"Соединённые Штаты Америки",2002,1
+"bands";"Severed Heads";"Австралия",1979,6
+"bands";"She Wants Revenge";"Соединённые Штаты Америки",2005,1
+"bands";"Silver Jews";"Соединённые Штаты Америки",1989,24
+"bands";"Skitsystem";"Швеция",1994,2
+"bands";"Slapshot";"Соединённые Штаты Америки",1985,1
+"bands";"Sleeper";"Великобритания",1993,1
+"bands";"Steeler";"Германия",1981,1
+"bands";"Strapping Young Lad";"Канада",1994,5
+"bands";"5ive";"Англия",1997,1
+"bands";"Terrorizer";"Соединённые Штаты Америки",2009,6
+"bands";"The Church";"Австралия",1980,3
+"bands";"The Electric Prunes";"Соединённые Штаты Америки",1999,26
+"bands";"The Flying Lizards";"Великобритания",1976,8
+"bands";"The Idle Race";"Англия",1967,6
+"bands";"The Moodists";"Австралия",1980,5
+"bands";"The Professionals";"Англия",1979,2
+"bands";"The Promise Ring";"Соединённые Штаты Америки",1995,2
+"bands";"The Rascals (США)";"Соединённые Штаты Америки",1965,3
+"bands";"The Rumour";"Англия",1976,5
+"bands";"The Skids";"Шотландия",2010,16
+"bands";"The Spencer Davis Group";"Англия",1963,8
+"bands";"The Teardrop Explodes";"Англия",1978,6
+"bands";"The Tielman Brothers";"Голландская Ост-Индия",1947,28
+"bands";"The Woodentops";"Англия",1983,1
+"bands";"Therapy?";"Северная Ирландия",1989,3
+"bands";"Three Dog Night";"Соединённые Штаты Америки",1981,14
+"bands";"A*Teens";"Швеция",1998,3
+"bands";"Uchpa";"Перу",1994,1
+"bands";"AMM";"Англия",1965,5
+"bands";"Unseen Terror";"Англия",1987,1
+"bands";"Useless ID";"Израиль",1994,4
+"bands";"After Forever";"Нидерланды",1995,5
+"bands";"Vader";"Польша",1983,1
+"bands";"Vega 4";"Англия",1999,2
+"bands";"America";"Англия",1970,1
+"bands";"Virgin Black";"Австралия",1995,9
+"bands";"And One";"Германия",1989,1
+"bands";"Apoptygma Berzerk";"Норвегия",1989,2
+"bands";"Argent";"Англия",2010,2
+"bands";"Army of Lovers";"Швеция",1987,2
+"bands";"We Are Scientists";"Соединённые Штаты Америки",2000,1
+"bands";"Art Bears";"Англия",1978,3
+"bands";"Atari Teenage Riot";"Германия",1992,2
+"bands";"Atomic Rooster";"Англия",1980,22
+"bands";"Avail";"Соединённые Штаты Америки",1987,1
+"bands";"Ayreon";"Нидерланды",1995,1
+"bands";"Wolfmother";"Австралия",2000,5
+"bands";"Bad Company (электронная группа)";"Великобритания",1999,2
+"bands";"Barathrum";"Финляндия",1990,2
+"bands";"Yearning";"Финляндия",1994,6
+"bands";"Zard";"Япония",1991,1
+"bands";"Zonata";"Швеция",1998,3
+"bands";"Bijelo Dugme";"Социалистическая Республика Босния и Герцеговина",2005,52
+"bands";"Biohazard (группа)";"Соединённые Штаты Америки",1987,1
+"bands";"Blonde Redhead";"Соединённые Штаты Америки",1993,2
+"bands";"Blue System";"Германия",1987,1
+"bands";"Blutengel";"Германия",1999,7
+"bands";"Bomfunk MC’s";"Финляндия",1998,1
+"bands";"Brain Surgeons";"Соединённые Штаты Америки",1994,4
+"bands";"Cadaveria";"Италия",2001,1
+"bands";"Candlemass";"Швеция",1984,4
+"bands";"Carpe Tenebrum";"Норвегия",1997,1
+"bands";"Carter the Unstoppable Sex Machine";"Англия",2007,2
+"bands";"Chimaira";"Соединённые Штаты Америки",1998,5
+"bands";"Clawfinger";"Швеция",1989,2
+"bands";"Combichrist";"Норвегия",2003,1
+"bands";"Crass";"Англия",1977,16
+"bands";"Crematory";"Германия",1991,5
+"bands";"Cynic";"Соединённые Штаты Америки",1987,5
+"bands";"Dance Hall Crashers";"Соединённые Штаты Америки",1989,3
+"bands";"Deathstars";"Швеция",2000,1
+"bands";"Delinquent Habits";"Соединённые Штаты Америки",1991,3
+"bands";"Dervish";"Ирландия",1989,2
+"bands";"Deutsch-Amerikanische Freundschaft";"Германия",1978,4
+"bands";"Devo";"Соединённые Штаты Америки",1996,14
+"bands";"Diorama";"Германия",1996,1
+"bands";"DragonForce";"Англия",1999,10
+"bands";"E Nomine";"Германия",1999,1
+"bands";"Мюнхенский филармонический оркестр";"Германия",1893,1
+"bands";"Edenbridge";"Австрия",1998,7
+"bands";"Elend (группа)";"Франция",1993,2
+"bands";"Eloy";"Германия",1969,12
+"bands";"Ensemble Intercontemporain";"Франция",1976,1
+"bands";"Equinox";"Канада",1998,2
+"bands";"Evergrey";"Швеция",1995,11
+"bands";"Faithless";"Англия",1995,4
+"bands";"Family";"Англия",1966,11
+"bands";"Front 242";"Бельгия",1981,1
+"bands";"G.M.S.";"Нидерланды",1995,2
+"bands";"Grand Funk Railroad";"Соединённые Штаты Америки",1969,3
+"bands";"Grave";"Швеция",1986,2
+"bands";"Hep Stars";"Швеция",1963,3
+"bands";"Hooverphonic";"Бельгия",1995,5
+"bands";"Hypocrisy";"Швеция",1990,1
+"bands";"Héroes del Silencio";"Испания",1984,2
+"bands";"Ill Niño";"Соединённые Штаты Америки",1998,2
+"bands";"Immortal";"Норвегия",1990,4
+"bands";"In Flames";"Швеция",1990,3
+"bands";"InnerWish";"Греция",1995,7
+"bands";"Iris (группа)";"Соединённые Штаты Америки",1993,1
+"bands";"Jal";"Пакистан",2002,2
+"bands";"Kayak";"Нидерланды",1999,26
+"bands";"Kekal";"Индонезия",1995,3
+"bands";"Kittie";"Канада",1996,6
+"bands";"Korpiklaani";"Финляндия",1993,2
+"bands";"LCD Soundsystem";"Соединённые Штаты Америки",2001,6
+"bands";"La Bouche";"Германия",1994,4
+"bands";"Lightning Bolt";"Соединённые Штаты Америки",1994,1
+"bands";"Lindisfarne";"Англия",1977,6
+"bands";"Local H";"Соединённые Штаты Америки",1990,1
+"bands";"Lunatic Calm";"Великобритания",1996,1
+"bands";"Mad Caddies";"Соединённые Штаты Америки",1995,2
+"bands";"Mandalay";"Великобритания",1998,1
+"bands";"Meat Puppets";"Соединённые Штаты Америки",1980,3
+"bands";"Milk Inc.";"Бельгия",1996,1
+"bands";"Minus the Bear";"Соединённые Штаты Америки",2001,1
+"bands";"Moby Grape";"Соединённые Штаты Америки",2006,4
+"bands";"Molotov";"Мексика",1995,1
+"bands";"Mor ve Ötesi";"Турция",1995,2
+"bands";"My Dying Bride";"Англия",1990,5
+"bands";"Múm";"Исландия",1997,1
+"bands";"New Model Army";"Англия",1980,7
+"bands";"New York Dolls";"Соединённые Штаты Америки",1971,14
+"bands";"Nitzer Ebb";"Англия",1982,2
+"bands";"Noir Désir";"Франция",1983,5
+"bands";"Onslaught";"Англия",2004,4
+"bands";"Organisation (группа)";"Германия",1967,5
+"bands";"Orgy";"Соединённые Штаты Америки",1994,4
+"bands";"Pain of Salvation";"Швеция",1991,18
+"bands";"Painkiller (группа)";"Соединённые Штаты Америки",1991,1
+"bands";"Peanut Butter Conspiracy";"Соединённые Штаты Америки",1966,2
+"bands";"Pentangle";"Великобритания",1968,5
+"bands";"Phish";"Соединённые Штаты Америки",2008,4
+"bands";"Pizzicato Five";"Япония",1985,7
+"bands";"Pop Will Eat Itself";"Англия",1986,2
+"bands";"Puhdys";"Германия",1969,1
+"bands";"Qntal";"Германия",1991,1
+"bands";"Queensrÿche";"Соединённые Штаты Америки",1982,4
+"bands";"Ricchi e Poveri";"Италия",1967,1
+"bands";"Rise Against";"Соединённые Штаты Америки",1999,1
+"bands";"Rotten Sound";"Финляндия",1993,1
+"bands";"Royal Hunt";"Дания",1989,3
+"bands";"Run-D.M.C.";"Соединённые Штаты Америки",1981,1
+"bands";"Словацкий филармонический оркестр";"Словакия",1949,2
+"bands";"Sariola";"Германия",2005,3
+"bands";"Sentenced";"Финляндия",1989,5
+"bands";"Shape of Despair";"Финляндия",1998,1
+"bands";"Sirenia (группа)";"Норвегия",2001,1
+"bands";"Six Feet Under";"Соединённые Штаты Америки",1993,5
+"bands";"Smile";"Англия",1968,3
+"bands";"Stiff Little Fingers";"Северная Ирландия",1977,6
+"bands";"Symphony X";"Соединённые Штаты Америки",1994,2
+"bands";"Ten Years After";"Англия",1988,3
+"bands";"The 3rd and the Mortal";"Норвегия",1992,10
+"bands";"The Alarm";"Уэльс",1981,1
+"bands";"The Association";"Соединённые Штаты Америки",1965,3
+"bands";"The Byrds";"Соединённые Штаты Америки",1964,11
+"bands";"The Fabulous Wailers (рок-группа)";"Соединённые Штаты Америки",1958,1
+"bands";"The Flower Kings";"Швеция",1994,7
+"bands";"The Housemartins";"Англия",1983,6
+"bands";"The Ink Spots";"Соединённые Штаты Америки",1934,2
+"bands";"The Jesus Lizard";"Соединённые Штаты Америки",1987,5
+"bands";"The Jet Set";"Польша",2005,1
+"bands";"The Kingsmen";"Соединённые Штаты Америки",1959,3
+"bands";"The Libertines";"Англия",1997,5
+"bands";"The Lovin' Spoonful";"Соединённые Штаты Америки",1991,9
+"bands";"The Men They Couldn’t Hang";"Англия",1984,2
+"bands";"The Neon Boys";"Соединённые Штаты Америки",1972,3
+"bands";"The Neptunes";"Соединённые Штаты Америки",1992,1
+"bands";"The Posies";"Соединённые Штаты Америки",1986,1
+"bands";"The Presidents of the United States of America";"Соединённые Штаты Америки",1993,1
+"bands";"The Pretty Things";"Англия",1963,4
+"bands";"The Rezillos";"Шотландия",2001,4
+"bands";"The Searchers";"Англия",1959,3
+"bands";"The Shamen";"Шотландия",1985,6
+"bands";"The Stooges";"Соединённые Штаты Америки",1967,8
+"bands";"The Troggs";"Англия",1964,3
+"bands";"The Vibrators";"Англия",1976,3
+"bands";"Theory of a Deadman";"Канада",2001,1
+"bands";"Throbbing Gristle";"Англия",1975,4
+"bands";"Timo Rautiainen & Trio Niskalaukaus";"Финляндия",1997,9
+"bands";"Tomahawk (группа)";"Соединённые Штаты Америки",2000,1
+"bands";"Two Witches";"Финляндия",1987,1
+"bands";"Above the Law";"Соединённые Штаты Америки",1989,1
+"bands";"Ultra Bra";"Финляндия",1994,4
+"bands";"Alyson Avenue";"Швеция",1997,1
+"bands";"Amberian Dawn";"Финляндия",2006,3
+"bands";"Anti Feminism";"Япония",1991,1
+"bands";"Ash (группа)";"Северная Ирландия",1992,1
+"bands";"Babylon Zoo";"Англия",1992,2
+"bands";"Bachman-Turner Overdrive";"Канада",1973,7
+"bands";"Barón Rojo";"Испания",1980,1
+"bands";"Before the Dawn (группа)";"Финляндия",1999,6
+"bands";"Black Grape";"Англия",1993,2
+"bands";"Blind Faith";"Англия",1968,4
+"bands";"Bronski Beat";"Англия",1983,6
+"bands";"Béla Fleck and the Flecktones";"Соединённые Штаты Америки",1988,1
+"bands";"Cacophony";"Соединённые Штаты Америки",1986,4
+"bands";"Captain Jack";"Германия",1995,3
+"bands";"Celtic Frost";"Швейцария",2001,6
+"bands";"Climax Blues Band";"Англия",1968,5
+"bands";"Urchin";"Англия",1972,10
+"bands";"Coal Chamber";"Соединённые Штаты Америки",1993,2
+"bands";"Virgin Steele";"Соединённые Штаты Америки",1981,1
+"bands";"Visions of Atlantis";"Австрия",2000,1
+"bands";"Volbeat";"Дания",2000,2
+"bands";"CryoShell";"Дания",2006,1
+"bands";"Cryptal Darkness";"Австралия",1993,2
+"bands";"Crystallion";"Германия",2003,3
+"bands";"Cute";"Япония",2005,3
+"bands";"Симфонический оркестр Испанского радио и телевидения";"Испания",1965,1
+"bands";"Wham!";"Англия",1981,4
+"bands";"3 Doors Down";"Соединённые Штаты Америки",1996,1
+"bands";"Wilde Flowers";"Англия",1964,9
+"bands";"Damn Yankees";"Соединённые Штаты Америки",1989,4
+"bands";"Wolfsheim";"Германия",1987,1
+"bands";"Dead by Sunrise";"Соединённые Штаты Америки",2005,1
+"bands";"Decyfer Down";"Соединённые Штаты Америки",1999,1
+"bands";"Dingo (группа)";"Финляндия",2004,4
+"bands";"Disorder";"Англия",1980,1
+"bands";"A (группа)";"Англия",1993,2
+"bands";"A Silver Mt. Zion";"Канада",1999,2
+"bands";"Dreadzone";"Великобритания",1993,1
+"bands";"ASP (группа)";"Германия",1999,1
+"bands";"Agnostic Front";"Соединённые Штаты Америки",1980,3
+"bands";"Escape the Fate";"Соединённые Штаты Америки",2004,4
+"bands";"Europa Philharmonie";"Германия",1996,1
+"bands";"Evans Blue";"Канада",2005,1
+"bands";"Eyes Adrift";"Соединённые Штаты Америки",2002,3
+"bands";"Flaw";"Соединённые Штаты Америки",2006,2
+"bands";"Fleshgore";"Украина",2000,2
+"bands";"Friends of Dean Martinez";"Соединённые Штаты Америки",1995,7
+"bands";"Оркестр романской Швейцарии";"Швейцария",1918,1
+"bands";"Zeromancer";"Норвегия",1999,2
+"bands";"Alkaline Trio";"Соединённые Штаты Америки",1996,3
+"bands";"Ambeon";"Нидерланды",2001,2
+"bands";"Anthem";"Япония",2000,12
+"bands";"Indian Ocean";"Индия",1990,1
+"bands";"Journey";"Соединённые Штаты Америки",1995,16
+"bands";"Juliette and the Licks";"Соединённые Штаты Америки",2003,8
+"bands";"Jump5";"Соединённые Штаты Америки",1999,5
+"bands";"KMD";"Соединённые Штаты Америки",1989,2
+"bands";"Kargo";"Турция",1993,2
+"bands";"Katrina and the Waves";"Англия",1981,2
+"bands";"Kent (группа)";"Швеция",1990,2
+"bands";"Klangforum Wien";"Австрия",1985,1
+"bands";"Blue Cheer";"Соединённые Штаты Америки",1999,42
+"bands";"Boards of Canada";"Шотландия",1986,1
+"bands";"Bolt Thrower";"Англия",1986,8
+"bands";"Boredoms";"Япония",1986,1
+"bands";"Borknagar";"Норвегия",1995,7
+"bands";"Bring Me the Horizon";"Англия",2004,1
+"bands";"Burning Starr";"Соединённые Штаты Америки",1984,1
+"bands";"Camera Obscura (группа)";"Шотландия",1996,1
+"bands";"Cardiacs";"Англия",1981,5
+"bands";"Chelsea (группа)";"Англия",1976,3
+"bands";"Cluster";"Германия",2007,9
+"bands";"Cockney Rebel";"Англия",1972,3
+"bands";"Cold (группа)";"Соединённые Штаты Америки",1996,2
+"bands";"Le Orme";"Италия",1966,9
+"bands";"Lunachicks";"Соединённые Штаты Америки",1985,1
+"bands";"Mad Season";"Соединённые Штаты Америки",1994,4
+"bands";"Malevolent Creation";"Соединённые Штаты Америки",1987,14
+"bands";"Metro Station";"Соединённые Штаты Америки",2006,1
+"bands";"Microdisney";"Ирландия",1980,2
+"bands";"Crazy Town";"Соединённые Штаты Америки",1995,2
+"bands";"Danzig";"Соединённые Штаты Америки",1987,1
+"bands";"Dark Funeral";"Швеция",1993,3
+"bands";"Death in June";"Англия",1981,5
+"bands";"Национальный оркестр Бельгии";"Бельгия",1936,1
+"bands";"Deep Forest";"Франция",1992,1
+"bands";"Destruction";"Германия",1982,1
+"bands";"Dirty Pretty Things";"Англия",2005,4
+"bands";"Dissection";"Швеция",1989,5
+"bands";"East 17";"Англия",2006,3
+"bands";"Eden's Crush";"Соединённые Штаты Америки",2001,2
+"bands";"Edge of Sanity";"Швеция",1989,2
+"bands";"Mission of Burma";"Соединённые Штаты Америки",2002,2
+"bands";"Etron Fou Leloublan";"Франция",1973,6
+"bands";"Fields of the Nephilim";"Англия",1984,2
+"bands";"Flotsam and Jetsam";"Соединённые Штаты Америки",1981,2
+"bands";"Freak Kitchen";"Швеция",1992,2
+"bands";"Fun Factory";"Германия",2007,9
+"bands";"Gob";"Канада",1993,1
+"bands";"Golden Earring";"Нидерланды",1961,5
+"bands";"Gotthard";"Швейцария",1992,2
+"bands";"Morphine";"Соединённые Штаты Америки",1989,2
+"bands";"My Morning Jacket";"Соединённые Штаты Америки",1998,1
+"bands";"Necrophagist";"Германия",1992,1
+"bands";"Nocturnal Rites";"Швеция",1990,1
+"bands";"Oingo Boingo";"Соединённые Штаты Америки",1972,6
+"bands";"Harmonia (группа)";"Германия",2007,4
+"bands";"I Threes";"Ямайка",1974,3
+"bands";"Ian Gillan Band";"Англия",1975,7
+"bands";"Pinkly Smooth";"Соединённые Штаты Америки",2001,2
+"bands";"Johnny Thunders & The Heartbreakers";"Соединённые Штаты Америки",1975,4
+"bands";"L.A.P.D.";"Соединённые Штаты Америки",2010,6
+"bands";"L7 (группа)";"Соединённые Штаты Америки",1985,6
+"bands";"LaFee";"Греция",2004,8
+"bands";"Les Légions Noires";"Франция",1993,1
+"bands";"Life of Agony";"Соединённые Штаты Америки",1989,1
+"bands";"Pitchshifter";"Великобритания",1989,1
+"bands";"Question Mark & the Mysterians";"Соединённые Штаты Америки",1962,1
+"bands";"Quintessence";"Великобритания",1969,1
+"bands";"Reel Big Fish";"Соединённые Штаты Америки",1991,5
+"bands";"Refused";"Швеция",1991,1
+"bands";"Regurgitate";"Швеция",1990,1
+"bands";"Reverend and the Makers";"Англия",2005,2
+"bands";"Rialto (группа)";"Англия",1997,2
+"bands";"Mekong Delta";"Германия",1985,3
+"bands";"Milli Vanilli";"Германия",1988,2
+"bands";"Rockfour";"Израиль",1988,1
+"bands";"Rootwater";"Польша",2002,1
+"bands";"SR-71 (группа)";"Соединённые Штаты Америки",1997,2
+"bands";"Scar Symmetry";"Швеция",2004,1
+"bands";"Mud (группа)";"Англия",1966,4
+"bands";"Mystic Prophecy";"Греция",2000,4
+"bands";"Nektar";"Германия",2000,18
+"bands";"Omega (группа)";"Венгрия",1962,1
+"bands";"Os Mutantes";"Бразилия",2006,22
+"bands";"Sex Machineguns";"Япония",1989,1
+"bands";"Sikth";"Великобритания",1999,2
+"bands";"Soulwax";"Бельгия",1995,2
+"bands";"Stage Dolls";"Норвегия",1983,2
+"bands";"Steel Pulse";"Англия",1975,15
+"bands";"Stump";"Англия",1983,1
+"bands";"SunStroke Project";"Молдавия",2007,1
+"bands";"Super Junior";"Республика Корея",2005,1
+"bands";"Psy 4 De La Rime";"Франция",2001,4
+"bands";"Pzychobitch";"Германия",2001,1
+"bands";"Баяга и инструктори";"Сербия",1996,2
+"bands";"Rasputina";"Соединённые Штаты Америки",1992,3
+"bands";"TLC (группа)";"Соединённые Штаты Америки",1990,1
+"bands";"That Petrol Emotion";"Северная Ирландия",1984,2
+"bands";"The Coasters";"Соединённые Штаты Америки",1955,12
+"bands";"The Deviants";"Великобритания",2011,8
+"bands";"The Dictators";"Соединённые Штаты Америки",1991,4
+"bands";"The Distillers";"Соединённые Штаты Америки",1998,5
+"bands";"The Drifters";"Соединённые Штаты Америки",1953,12
+"bands";"The Flamin’ Groovies";"Соединённые Штаты Америки",1965,2
+"bands";"The Grid";"Англия",2003,2
+"bands";"The Mekons";"Англия",1977,4
+"bands";"The Members";"Англия",2007,2
+"bands";"The Movielife";"Соединённые Штаты Америки",1997,1
+"bands";"The Nightingales";"Англия",1979,3
+"bands";"The Old Dead Tree";"Франция",1997,4
+"bands";"The Partisans";"Уэльс",1978,2
+"bands";"The Passage";"Великобритания",1978,2
+"bands";"The Puppini Sisters";"Англия",2004,1
+"bands";"The Ronettes";"Соединённые Штаты Америки",1959,3
+"bands";"The Ruts";"Англия",1977,2
+"bands";"The Shangri-Las";"Соединённые Штаты Америки",1963,1
+"bands";"The The";"Великобритания",1979,16
+"bands";"The Three Johns";"Англия",1981,1
+"bands";"The Tubes";"Соединённые Штаты Америки",1972,7
+"bands";"The Weavers";"Соединённые Штаты Америки",1948,7
+"bands";"Threshold (группа)";"Англия",1988,3
+"bands";"Thy Majestie";"Италия",2000,6
+"bands";"Tony Orlando and Dawn";"Соединённые Штаты Америки",1970,3
+"bands";"Sexart";"Соединённые Штаты Америки",1989,3
+"bands";"Silly Wizard";"Шотландия",1970,14
+"bands";"Sinergy";"Финляндия",1997,9
+"bands";"Skunk Anansie";"Англия",2009,2
+"bands";"Slaughter & The Dogs";"Англия",1979,4
+"bands";"Sleep (группа)";"Соединённые Штаты Америки",1990,2
+"bands";"Smash!! (группа)";"Россия",2001,2
+"bands";"Týr";"Фарерские острова",1998,1
+"bands";"Sodom";"Германия",1981,2
+"bands";"Sparklehorse";"Соединённые Штаты Америки",1995,1
+"bands";"Spock’s Beard";"Соединённые Штаты Америки",1992,2
+"bands";"Unleashed";"Швеция",1989,1
+"bands";"Лесоповал (группа)";"Россия",1990,2
+"bands";"Stereophonics";"Уэльс",1992,2
+"bands";"Sugar Ray";"Соединённые Штаты Америки",1986,3
+"bands";"Sum 41";"Канада",1996,3
+"bands";"Supergrass";"Англия",1993,4
+"bands";"Survivor";"Соединённые Штаты Америки",1993,24
+"bands";"Wall of Voodoo";"Соединённые Штаты Америки",1977,6
+"bands";"Wayne";"Соединённые Штаты Америки",2001,1
+"bands";"Whiplash (группа)";"Соединённые Штаты Америки",1984,2
+"bands";"Wonder Girls";"Республика Корея",2007,2
+"bands";"Zebrahead";"Соединённые Штаты Америки",1996,1
+"bands";"Весёлые ребята (ВИА)";"Союз Советских Социалистических Республик",1966,14
+"bands";"The 4-Skins";"Англия",2007,2
+"bands";"The Chieftains";"Ирландия",1962,5
+"bands";"The Eighties Matchbox B-Line Disaster";"Англия",1999,1
+"bands";"The Gits";"Соединённые Штаты Америки",1986,1
+"bands";"The Mighty Mighty Bosstones";"Соединённые Штаты Америки",1983,2
+"bands";"The Seeds";"Соединённые Штаты Америки",1965,4
+"bands";"The Servant (группа)";"Великобритания",1998,1
+"bands";"The Temptations";"Соединённые Штаты Америки",1960,17
+"bands";"The Toasters";"Соединённые Штаты Америки",1981,3
+"bands";"The Wallflowers";"Соединённые Штаты Америки",1989,3
+"bands";"Theatres des Vampires";"Италия",1994,8
+"bands";"Менудо";"Пуэрто-Рико",1977,4
+"bands";"Twisted Sister";"Соединённые Штаты Америки",1972,1
+"bands";"US5";"Соединённые Штаты Америки",2005,6
+"bands";"USA for Africa";"Соединённые Штаты Америки",1985,1
+"bands";"Vaakevandring";"Норвегия",1996,6
+"bands";"Van Canto";"Германия",2006,1
+"bands";"Voivod";"Канада",1982,3
+"bands";"Warhorse";"Англия",1970,6
+"bands";"White Zombie";"Соединённые Штаты Америки",1985,8
+"bands";"Xandria";"Германия",1994,1
+"bands";"Филармонический оркестр Осло";"Норвегия",1919,3
+"bands";"Венский симфонический оркестр";"Австрия",1900,1
+"bands";"Королевский филармонический оркестр";"Англия",1946,2
+"bands";"Łzy";"Польша",1996,1
+"bands";"Земляне (группа)";"Союз Советских Социалистических Республик",1979,5
+"bands";"Квартет имени Бородина";"Союз Советских Социалистических Республик",1945,10
+"bands";"Кливлендский квартет";"Соединённые Штаты Америки",1969,3
+"bands";"Танчао";"Китайская Народная Республика",1988,2
+"bands";"Блакси Гёрлз";"Румыния",2007,1
+"bands";"Ласковый май";"Союз Советских Социалистических Республик",2009,2
+"bands";"Голландия (группа)";"Россия",2003,2
+"bands";"Оркестр Парижа";"Франция",1967,1
+"bands";"Рибля чорба";"Сербия",1978,5
+"bands";"Симфонический оркестр NBC";"Соединённые Штаты Америки",1937,5
+"bands";"Стары Ольса";"Белоруссия",1999,1
+"bands";"Мальчишник (группа)";"Россия",1990,1
+"bands";"Фабрика (группа)";"Россия",2002,1
+"bands";"Филадельфийский оркестр";"Соединённые Штаты Америки",1900,1
+"bands";"На-На";"Россия",1989,4
+"bands";"Ю-Питер";"Россия",2001,1
+"bands";"Сент-Луисский симфонический оркестр";"Соединённые Штаты Америки",1880,1
+"bands";"Ранетки (группа)";"Россия",2005,1
+"bands";"…And You Will Know Us by the Trail of Dead";"Соединённые Штаты Америки",1994,4
+"bands";"108 (группа)";"Соединённые Штаты Америки",1991,1
+"bands";"36 Crazyfists";"Соединённые Штаты Америки",1994,1
+"bands";"A Certain Ratio";"Англия",1977,1
+"bands";"Acoustic Alchemy";"Англия",1981,9
+"bands";"Alessi’s Ark";"Великобритания",2007,1
+"bands";"Antis";"Литва",2007,8
+"bands";"Anvil";"Канада",1978,1
+"bands";"BeForU";"Япония",2008,6
+"bands";"Belly";"Соединённые Штаты Америки",1991,2
+"bands";"Big Country";"Великобритания",2010,12
+"bands";"Big in Japan (группа)";"Англия",1977,10
+"bands";"Biomechanical";"Великобритания",2001,3
+"bands";"Bohren und der club of gore";"Германия",1992,1
+"bands";"CCCP Fedeli alla linea";"Италия",1982,4
+"bands";"Calla (группа)";"Соединённые Штаты Америки",1997,1
+"bands";"Carmen (группа)";"Соединённые Штаты Америки",1970,1
+"bands";"Chatmonchy";"Япония",2000,1
+"bands";"Coverdale and Page";"Великобритания",1991,4
+"bands";"Cro-Mags";"Соединённые Штаты Америки",1981,4
+"bands";"Daisy Chainsaw";"Англия",1989,6
+"bands";"DarkSun";"Испания",2002,1
+"bands";"Decapitated";"Польша",1996,5
+"bands";"Del Amitri";"Шотландия",1983,7
+"bands";"Diabolique";"Швеция",1995,2
+"bands";"Dismember";"Швеция",1988,6
+"bands";"E.S. Posthumus";"Соединённые Штаты Америки",2000,1
+"bands";"Electric Six";"Соединённые Штаты Америки",1999,1
+"bands";"Exciter (группа)";"Канада",1978,1
+"bands";"Exit-13";"Соединённые Штаты Америки",1989,1
+"bands";"Feminnem";"Хорватия",2004,1
+"bands";"Fingerprintz";"Шотландия",1987,2
+"bands";"Fleet Foxes";"Соединённые Штаты Америки",2006,1
+"bands";"Flipper";"Соединённые Штаты Америки",2005,6
+"bands";"Foxy Shazam";"Соединённые Штаты Америки",2004,1
+"bands";"Full Tilt Boogie Band";"Канада",1969,2
+"bands";"Gang Starr";"Соединённые Штаты Америки",1985,2
+"bands";"Gene Loves Jezebel";"Великобритания",1980,2
+"bands";"Geordie";"Англия",2012,8
+"bands";"Grobschnitt";"Федеративная Республика Германии (до 1990)",2007,14
+"bands";"Heathen (группа)";"Соединённые Штаты Америки",2002,12
+"bands";"I Set My Friends on Fire";"Соединённые Штаты Америки",2007,2
+"bands";"Jawbox";"Соединённые Штаты Америки",1989,5
+"bands";"Jesus Loves You";"Великобритания",1989,5
+"bands";"Judge";"Соединённые Штаты Америки",1987,8
+"bands";"Juicy Lucy";"Великобритания",2004,21
+"bands";"Juno Reactor";"Великобритания",1990,7
+"bands";"KC and the Sunshine Band";"Соединённые Штаты Америки",1993,6
+"bands";"Keats";"Великобритания",1983,5
+"bands";"Maná";"Мексика",1978,1
+"bands";"Marky Mark and the Funky Bunch";"Соединённые Штаты Америки",1989,1
+"bands";"Martha and the Vandellas";"Соединённые Штаты Америки",1962,7
+"bands";"Mountain";"Соединённые Штаты Америки",1969,7
+"bands";"Narnia (группа)";"Швеция",1996,1
+"bands";"Nephew";"Дания",1996,1
+"bands";"Nitty Gritty Dirt Band";"Соединённые Штаты Америки",1966,3
+"bands";"October Tide";"Швеция",1995,1
+"bands";"Paul Revere & the Raiders";"Соединённые Штаты Америки",1958,21
+"bands";"Poco";"Соединённые Штаты Америки",1968,8
+"bands";"Pretty Girls Make Graves";"Соединённые Штаты Америки",2001,1
+"bands";"Project Pitchfork";"Германия",1989,2
+"bands";"Puddle of Mudd";"Соединённые Штаты Америки",1992,5
+"bands";"Ram Jam";"Соединённые Штаты Америки",1977,1
+"bands";"Redbone";"Соединённые Штаты Америки",1997,6
+"bands";"Sacred Steel";"Германия",1996,2
+"bands";"Savage Circus";"Германия",2004,3
+"bands";"Shadow Gallery";"Соединённые Штаты Америки",1985,4
+"bands";"Shelter";"Соединённые Штаты Америки",2002,12
+"bands";"Slapp Happy";"Германия",1972,3
+"bands";"Soul Asylum";"Соединённые Штаты Америки",1983,6
+"bands";"St. Lunatics";"Соединённые Штаты Америки",1995,1
+"bands";"Stick to Your Guns";"Соединённые Штаты Америки",2003,1
+"bands";"Suffocation";"Соединённые Штаты Америки",1988,3
+"bands";"Terror Squad (группа)";"Соединённые Штаты Америки",1998,5
+"bands";"The 101ers";"Великобритания",1974,5
+"bands";"The Beau Brummels";"Соединённые Штаты Америки",1964,6
+"bands";"The Box Tops";"Соединённые Штаты Америки",1963,5
+"bands";"The Cross";"Англия",1987,3
+"bands";"The Exies";"Соединённые Штаты Америки",1997,1
+"bands";"The Firm";"Англия",1984,4
+"bands";"The Free";"Германия",1994,5
+"bands";"The Go-Go's";"Соединённые Штаты Америки",1978,1
+"bands";"The Manhattan Transfer";"Соединённые Штаты Америки",1969,2
+"bands";"The Modern Lovers";"Соединённые Штаты Америки",1970,7
+"bands";"The Motors";"Великобритания",1977,2
+"bands";"The Pipettes";"Англия",2003,6
+"bands";"The Swinging Blue Jeans";"Англия",1962,2
+"bands";"Third Eye Blind";"Соединённые Штаты Америки",1993,1
+"bands";"Treat (группа)";"Швеция",2006,2
+"bands";"Uh Huh Her";"Соединённые Штаты Америки",2007,1
+"bands";"Ved Buens Ende";"Норвегия",2006,2
+"bands";"Villagers";"Ирландия",2008,1
+"bands";"Waltari";"Финляндия",1986,4
+"bands";"Warrior (группа)";"Соединённые Штаты Америки",1983,4
+"bands";"We Came as Romans";"Соединённые Штаты Америки",2005,1
+"bands";"White Rose Movement";"Англия",2004,1
+"bands";"Королевский шотландский национальный оркестр";"Шотландия",1893,1
+"bands";"Джепкин, Хайко";"Турция",1997,3
+"bands";"Мертвий Півень";"Украина",1989,9
+"bands";"6 Voltios";"Перу",1998,1
+"bands";"Adolescents";"Соединённые Штаты Америки",2001,36
+"bands";"Aquaria (группа)";"Бразилия",1999,3
+"bands";"Birth Control (группа)";"Германия",1968,11
+"bands";"Blackfield";"Израиль",2001,4
+"bands";"Bread";"Соединённые Штаты Америки",1969,5
+"bands";"Brownsville Station";"Соединённые Штаты Америки",1969,2
+"bands";"Celtic Woman";"Ирландия",2004,7
+"bands";"Cemetary";"Швеция",1989,1
+"bands";"Crowbar";"Соединённые Штаты Америки",1989,6
+"bands";"Crushed Butler";"Англия",1969,2
+"bands";"Dimension Zero";"Швеция",1995,2
+"bands";"Earth and Fire";"Нидерланды",1987,3
+"bands";"Eyes Set to Kill";"Соединённые Штаты Америки",2003,1
+"bands";"Faber Drive";"Канада",2004,1
+"bands";"Faster Pussycat";"Соединённые Штаты Америки",1986,7
+"bands";"FireHouse";"Соединённые Штаты Америки",1989,3
+"bands";"FireLake";"Украина",1997,7
+"bands";"Giles, Giles and Fripp";"Англия",1967,6
+"bands";"Great Northern";"Соединённые Штаты Америки",2005,1
+"bands";"Guttermouth";"Соединённые Штаты Америки",1988,1
+"bands";"Hate Eternal";"Соединённые Штаты Америки",1997,5
+"bands";"Karma to Burn";"Соединённые Штаты Америки",1997,6
+"bands";"Kool & the Gang";"Соединённые Штаты Америки",1964,2
+"bands";"Link 80";"Соединённые Штаты Америки",1993,5
+"bands";"Lipps Inc.";"Соединённые Штаты Америки",1979,4
+"bands";"Los del Río";"Испания",1962,2
+"bands";"Билькентский симфонический оркестр";"Турция",1993,1
+"bands";"Madball";"Соединённые Штаты Америки",1988,4
+"bands";"Mike + The Mechanics";"Англия",1985,8
+"bands";"Natas (группа)";"Соединённые Штаты Америки",1992,2
+"bands";"Neutral Milk Hotel";"Соединённые Штаты Америки",1989,4
+"bands";"No Angels";"Германия",2007,4
+"bands";"Nuclear Assault";"Соединённые Штаты Америки",1984,1
+"bands";"Numb (группа)";"Канада",1986,1
+"bands";"Odd Future";"Соединённые Штаты Америки",2007,2
+"bands";"One Man Army and the Undead Quartet";"Швеция",2004,7
+"bands";"Organ Thieves";"Канада",2008,3
+"bands";"Orson";"Соединённые Штаты Америки",2000,1
+"bands";"Paatos";"Швеция",2000,2
+"bands";"Pagan’s Mind";"Норвегия",2000,1
+"bands";"Paradisio";"Бельгия",1994,1
+"bands";"Pilot (группа)";"Шотландия",1973,4
+"bands";"Ratt";"Соединённые Штаты Америки",1976,1
+"bands";"Sacred Reich";"Соединённые Штаты Америки",1985,1
+"bands";"Sadus";"Соединённые Штаты Америки",1984,1
+"bands";"Saga (группа)";"Канада",1977,3
+"bands";"Shiny Toy Guns";"Соединённые Штаты Америки",2002,1
+"bands";"Slant 6";"Соединённые Штаты Америки",1992,1
+"bands";"The Ames Brothers";"Соединённые Штаты Америки",1948,1
+"bands";"The Communards";"Великобритания",1985,2
+"bands";"The Creation";"Англия",1966,5
+"bands";"The Crickets";"Соединённые Штаты Америки",1957,9
+"bands";"The Great Society";"Соединённые Штаты Америки",1965,4
+"bands";"The Highwaymen";"Соединённые Штаты Америки",1985,4
+"bands";"The Inchtabokatables";"Германия",1991,2
+"bands";"The Suicide Machines";"Соединённые Штаты Америки",1991,5
+"bands";"The Telescopes";"Англия",1987,1
+"bands";"Torture Killer";"Финляндия",2002,1
+"bands";"Train (группа)";"Соединённые Штаты Америки",2009,2
+"bands";"Walls of Jericho";"Соединённые Штаты Америки",1998,3
+"bands";"Warmen";"Финляндия",1999,2
+"bands";"Waylander";"Северная Ирландия",1993,11
+"bands";"White Lion";"Дания",1999,14
+"bands";"Wipers";"Соединённые Штаты Америки",1977,2
+"bands";"World Class Wreckin’ Cru";"Соединённые Штаты Америки",1983,3
+"bands";"Young Marble Giants";"Уэльс",1978,6
+"bands";"Екатарина Велика";"Югославия",1982,2
+"bands";"16 Horsepower";"Соединённые Штаты Америки",1992,1
+"bands";"9nine";"Япония",2005,8
+"bands";"Ash Ra Tempel";"Германия",2000,8
+"bands";"Autopsy";"Соединённые Штаты Америки",1987,6
+"bands";"Battles";"Соединённые Штаты Америки",2002,1
+"bands";"Black Light Burns";"Соединённые Штаты Америки",2005,4
+"bands";"Black Veil Brides";"Соединённые Штаты Америки",2006,1
+"bands";"Blinded Colony";"Швеция",2000,1
+"bands";"Blood or Whiskey";"Ирландия",1994,12
+"bands";"Brazen Abbot";"Аландские острова",1994,18
+"bands";"Busted (группа)";"Англия",2002,3
+"bands";"Def Squad";"Соединённые Штаты Америки",1996,2
+"bands";"Defecation (группа)";"Англия",2000,2
+"bands";"Destroy Rebuild Until God Shows";"Соединённые Штаты Америки",2010,2
+"bands";"Dezperadoz";"Германия",2000,3
+"bands";"Dreamtale";"Финляндия",1999,9
+"bands";"Drexciya";"Соединённые Штаты Америки",1992,2
+"bands";"Freebass";"Великобритания",2005,4
+"bands";"Gjallarhorn";"Финляндия",1994,8
+"bands";"Godflesh";"Великобритания",1988,5
+"bands";"Godgory";"Швеция",1992,5
+"bands";"Isole";"Швеция",1990,5
+"bands";"Izabo";"Израиль",1989,3
+"bands";"Jam & Spoon";"Германия",1991,3
+"bands";"Katedra";"Литва",1986,7
+"bands";"Koldbrann";"Норвегия",2001,1
+"bands";"Lasgo";"Бельгия",2000,2
+"bands";"Leaders of the New School";"Соединённые Штаты Америки",1989,1
+"bands";"Leatherface";"Великобритания",1988,1
+"bands";"Low (группа)";"Соединённые Штаты Америки",1993,3
+"bands";"Mandinga";"Румыния",2002,1
+"bands";"Mayday Parade";"Соединённые Штаты Америки",2005,1
+"bands";"Monaco";"Англия",1995,2
+"bands";"Mt. Helium";"Соединённые Штаты Америки",1999,1
+"bands";"Night Ranger";"Соединённые Штаты Америки",1982,6
+"bands";"Nu pagadi";"Германия",2004,1
+"bands";"Pagoda";"Соединённые Штаты Америки",2001,4
+"bands";"Peach";"Англия",1991,1
+"bands";"Planxty";"Ирландия",2004,16
+"bands";"REO Speedwagon";"Соединённые Штаты Америки",1967,6
+"bands";"Rebellion";"Германия",2001,2
+"bands";"Red Hot Chilli Pipers";"Шотландия",2002,3
+"bands";"Renegade Five";"Швеция",2005,4
+"bands";"Ryder";"Англия",1986,1
+"bands";"Slint";"Соединённые Штаты Америки",1986,3
+"bands";"Slowdive";"Англия",1989,3
+"bands";"Son of Dork";"Великобритания",2005,5
+"bands";"Stream of Passion";"Мексика",2005,12
+"bands";"Street Dogs";"Соединённые Штаты Америки",2002,7
+"bands";"Sub Sub";"Англия",1991,3
+"bands";"Sugarland";"Соединённые Штаты Америки",2003,1
+"bands";"Sweet 75";"Соединённые Штаты Америки",1995,4
+"bands";"T-ara";"Республика Корея",2009,2
+"bands";"TNT (группа)";"Норвегия",1996,14
+"bands";"Tannahill weavers";"Шотландия",1968,16
+"bands";"Tesla (группа)";"Соединённые Штаты Америки",1981,1
+"bands";"The Calling";"Соединённые Штаты Америки",2000,4
+"bands";"The Cribs";"Англия",2002,1
+"bands";"The Desert Rose Band";"Соединённые Штаты Америки",1985,4
+"bands";"The Dirtbombs";"Соединённые Штаты Америки",1992,5
+"bands";"The Easybeats";"Австралия",1964,4
+"bands";"The Frames";"Ирландия",1990,7
+"bands";"The Quireboys";"Англия",2001,6
+"bands";"The Rapture";"Соединённые Штаты Америки",1998,3
+"bands";"The Vandals";"Соединённые Штаты Америки",1980,3
+"bands";"The Von Bondies";"Соединённые Штаты Америки",1997,5
+"bands";"The Walkabouts";"Соединённые Штаты Америки",1984,7
+"bands";"This Heat";"Англия",1976,2
+"bands";"Tom Petty and the Heartbreakers";"Соединённые Штаты Америки",1976,3
+"bands";"Velcra";"Финляндия",2000,4
+"bands";"Zoviet France";"Великобритания",1980,2
+"bands";"Ashra";"Германия",1976,4
+"bands";"21st Century Schizoid Band";"Англия",2002,6
+"bands";"22-20s";"Англия",2002,1
+"bands";"38 Special (группа)";"Соединённые Штаты Америки",1974,2
+"bands";"Angel Witch";"Англия",1977,8
+"bands";"Banco del Mutuo Soccorso";"Италия",1969,9
+"bands";"China Crisis";"Англия",1979,2
+"bands";"Comecon (группа)";"Швеция",1990,3
+"bands";"Corrosion Of Conformity";"Соединённые Штаты Америки",1982,5
+"bands";"Deus (группа)";"Бельгия",1991,4
+"bands";"Divlje Jagode";"Босния и Герцеговина",1977,5
+"bands";"Dublin Death Patrol";"Соединённые Штаты Америки",2006,1
+"bands";"Dust";"Соединённые Штаты Америки",1969,2
+"bands";"Egg";"Англия",1968,3
+"bands";"El Canto del Loco";"Испания",1994,1
+"bands";"Episode Six";"Англия",1969,4
+"bands";"Fu Manchu";"Соединённые Штаты Америки",1987,2
+"bands";"Gilgamesh";"Великобритания",1972,8
+"bands";"Gorefest";"Нидерланды",1989,4
+"bands";"Hatesphere";"Дания",1998,1
+"bands";"Hatfield and the North";"Англия",2005,10
+"bands";"Haustor";"Социалистическая Республика Хорватия",1979,2
+"bands";"High on Fire";"Соединённые Штаты Америки",1998,1
+"bands";"Johnny Hates Jazz";"Англия",2009,2
+"bands";"Klubbheads";"Нидерланды",1990,1
+"bands";"Loverboy";"Канада",1979,2
+"bands";"Masterplan";"Германия",2001,7
+"bands";"Matching Mole";"Англия",1973,14
+"bands";"Monster Magnet";"Соединённые Штаты Америки",1989,2
+"bands";"Move (рок-группа, Япония)";"Япония",1997,1
+"bands";"Pepe Deluxé";"Финляндия",1996,1
+"bands";"Porno Graffitti";"Япония",1994,1
+"bands";"Prefab Sprout";"Дарем (графство)",1978,2
+"bands";"Racer X";"Соединённые Штаты Америки",1985,2
+"bands";"Reset (группа)";"Канада",1993,6
+"bands";"Scritti Politti";"Англия",1977,8
+"bands";"Seventh Wonder";"Швеция",2000,2
+"bands";"The Afghan Whigs";"Соединённые Штаты Америки",1986,1
+"bands";"The Beat";"Англия",1978,3
+"bands";"The Beautiful South";"Англия",1988,8
+"bands";"The Glitch Mob";"Соединённые Штаты Америки",2006,1
+"bands";"The Gone Jackals";"Соединённые Штаты Америки",1984,1
+"bands";"The Gutter Twins";"Соединённые Штаты Америки",2003,4
+"bands";"The Honeydrippers";"Англия",1981,9
+"bands";"The Miracles";"Соединённые Штаты Америки",1955,8
+"bands";"The Zutons";"Англия",2001,1
+"bands";"Transsylvania Phoenix";"Румыния",1962,8
+"bands";"Treat Her Right";"Соединённые Штаты Америки",1984,1
+"bands";"U-KISS";"Республика Корея",2008,2
+"bands";"Wavves";"Соединённые Штаты Америки",2008,2
+"bands";"Ван Гог (группа)";"Сербия",1990,2
+"bands";"Леб и сол";"Республика Македония",2006,10
+"bands";"Октобар 1864";"Сербия",1984,4
+"bands";"Шарло Акробата";"Сербия",1980,8

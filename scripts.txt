@@ -21,10 +21,26 @@ WHERE {
       do:birthPlace ?birthPlace .# ссылка на место рождения
    ?birthPlace rdf:type do:Country .# только страны рождения
    ?birthPlace rdfs:label ?birthPlaceRu .# название страны рождения
-   filter(langMatches(lang(?birthPlaceRu), "ru"))# только страны на русском
-   filter(langMatches(lang(?name), "ru"))# только имена на русском
-   filter( isNumeric(?yearsActive) && (?yearsActive < 3000) )# фильтр по дате активности
+   FILTER(langMatches(lang(?birthPlaceRu), "ru"))# только страны на русском
+   FILTER(langMatches(lang(?name), "ru"))# только имена на русском
+   FILTER( isNumeric(?yearsActive) && (?yearsActive < 3000) )# фильтр ошибок в датах
 }
 GROUP BY ?name #у некоторых актеров несколько дат и мест рождения,  их нужно убрать
 ORDER BY 2
 
+# Музыкальные группы	
+SELECT "bands" as ?type ?title MAX(?originRu) as ?origin MAX(?dateStart) as ?dateStart COUNT(?mem) as ?members_count
+WHERE {
+ ?b a do:Band .# группы
+ ?b rdfs:label ?title .#название
+ ?b dbpedia2:yearsActive ?dateStart .# дата начала активности
+ ?b do:formerBandMember ?mem .# состав
+ ?b dbpedia2:origin ?origin .# ссылка на место происхождения
+ ?origin a do:Country .# только страны
+ ?origin rdfs:label ?originRu .# названия стран
+ filter( langMatches(lang(?title), "ru") )# только названия на русском
+ filter( langMatches(lang(?originRu), "ru") ) # только страны на русском
+ filter( isNumeric(?dateStart) && ?dateStart < 3000 )# фильтр ошибок в датах
+}
+GROUP BY ?title# на всякий пожарный чтобы убрать повторы
+ORDER BY 2
