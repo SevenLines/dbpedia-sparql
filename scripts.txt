@@ -44,3 +44,18 @@ WHERE {
 }
 GROUP BY ?title# на всякий пожарный чтобы убрать повторы
 ORDER BY 2
+
+#Автомобили
+SELECT ?label ?y MAX(?t) ?m ?l ?country 
+WHERE {
+ ?a a do:Automobile . # автомобили
+ ?a dbpedia2:production ?y .# год начала производства
+ ?a rdfs:label ?label .# название автомобля
+ ?a dbpedia2:transmission ?t .# кол-во передач
+ ?a dbpedia2:manufacturer ?m . ?m do:location ?l . ?l do:country ?c . ?c rdfs:label ?country# страна производителя атомобиля
+ filter(langMatches(lang(?label), "ru"))# названия автомобилей только на русском
+ filter(isNumeric(?y) && ?y < 3000)# фильтр ошибок в датах
+ filter(isNumeric(?t) && ?t < 20 ) # количество передач не более 20
+ filter(langMatches(lang(?country), "ru")) # только страны на русском
+}
+GROUP BY ?a ?y ?label ?m ?l ?country
