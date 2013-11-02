@@ -82,7 +82,17 @@ WHERE {
  ?a do:manufacturer ?m . ?m rdfs:label ?lRu .
  ?a do:productionStartYear ?s.
  ?a do:numberBuilt ?c .
- filter(langMatches(lang(?lRu), "ru"))
- filter(langMatches(lang(?title), "ru"))
+ filter(langMatches(lang(?lRu), "ru")) .
+ filter(langMatches(lang(?title), "ru")) .
 }
 GROUP BY ?title ?lRu year(?s)
+
+# Вулканы
+SELECT "volcano", ?title, ?el, year(?le)
+WHERE {
+ ?v a do:Volcano . 
+ ?v rdfs:label ?title .
+ ?v do:elevation ?el .
+ ?v do:eruptionYear ?le .
+ filter( langMatches(lang(?title), "ru") )
+}
