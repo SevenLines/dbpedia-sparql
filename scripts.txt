@@ -96,3 +96,14 @@ WHERE {
  ?v do:eruptionYear ?le .
  filter( langMatches(lang(?title), "ru") )
 }
+
+# Озера
+SELECT ?name MAX(?depth) as ?maxDepth MIN(?depth) as ?avgDepth MAX(?elevation) as ?elevation
+WHERE {
+ ?l a do:Lake . 
+ ?l rdfs:label ?name .
+ ?l do:depth ?depth .
+ ?l do:elevation ?elevation .
+ FILTER( langMatches(lang(?name), "ru") )
+}
+GROUP BY ?name
