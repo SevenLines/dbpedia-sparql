@@ -149,3 +149,15 @@ WHERE {
  FILTER( isNumeric(?ign) )
 }
 GROUP BY ?title
+
+# Галлактики
+SELECT "galaxy" ?label ?dest ?constName
+WHERE {
+ ?g a do:Galaxy .
+ ?g rdfs:label ?label .
+ ?g dbpedia2:constellationName ?const . ?const rdfs:label ?constName .
+ ?g dbpedia2:distLy ?dest . 
+ FILTER ( langMatches(lang(?label), "ru" ) )
+ FILTER ( langMatches(lang(?constName), "ru" ) )
+ FILTER ( isNumeric( ?dest ) )
+}
