@@ -107,3 +107,20 @@ WHERE {
  FILTER( langMatches(lang(?name), "ru") )
 }
 GROUP BY ?name
+
+# Фильмы
+SELECT "movie" ?title MAX(?runTime) MAX(?lang) year(?r) MIN(month(?r))
+WHERE {
+ ?m a do:Film .
+ ?m rdfs:label ?title .  
+ ?m dbpedia2:runtime ?runTime .
+ ?m dbpedia2:language ?lang .
+ ?m dbpedia2:released ?r . 
+ ?m dbpedia2:budget ?budg . 
+ FILTER( langMatches(lang(?title), "ru" ) )
+ FILTER( langMatches(lang(?lang), "en" ) )
+ FILTER( datatype(?r) = xsd:date )
+ FILTER( datatype(?runTime) = <http://dbpedia.org/datatype/second> )
+ FILTER( ?runTime > 300 )
+} 
+GROUP BY ?title year(?r)
