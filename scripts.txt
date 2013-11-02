@@ -137,3 +137,15 @@ WHERE {
  FILTER ( langMatches(lang(?cRu), "ru") )
  FILTER ( isNumeric(?rd) && ?rd < 3000 && ?rd > 1000)
 } 
+
+# Компьютерные игры
+SELECT "game" ?title MIN(year(?rd)) MAX(?ign)
+WHERE {
+ ?g a do:VideoGame . 
+ ?g rdfs:label ?title .
+ ?g dbpedia2:ign ?ign . 
+ ?g do:releaseDate ?rd .
+ FILTER( langMatches( lang(?title ), "ru" ) )
+ FILTER( isNumeric(?ign) )
+}
+GROUP BY ?title

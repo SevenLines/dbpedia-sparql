@@ -1,0 +1,828 @@
+# тип, название, год релиза, рейтинг IGN
+"game";"Street Fighter IV";2008;9.300000000000001
+"game";"Ace Combat: Assault Horizon";2011;7.5
+"game";"Freelancer";2003;9.199999999999999
+"game";"Spyro 2: Season of Flame";2002;8.5
+"game";"Half-Life 2: Episode Two";2018;9.4
+"game";"Spec Ops: The Line";1929;8
+"game";"Dark Souls";2011;9
+"game";"Super Street Fighter IV";1928;9
+"game";"The Cave";2013;7.9
+"game";"Lego The Lord of the Rings";2012;6.8
+"game";"Sonic the Hedgehog 4: Episode II";2012;6.5
+"game";"R.U.S.E.";2010;8
+"game";"Resident Evil: Revelations";2012;8.5
+"game";"Dissidia: Final Fantasy";2008;8.9
+"game";"Quake 4";2005;8.199999999999999
+"game";"Pokémon Black и White";2010;9
+"game";"Demigod (игра)";1929;7.5
+"game";"Gran Turismo 5";2010;8.5
+"game";"Super Mario Galaxy 2";2010;10
+"game";"Shin Megami Tensei: Persona 3";1922;8.800000000000001
+"game";"Driver: San Francisco";2011;8
+"game";"Guild Wars 2";2012;9
+"game";"Multiwinia";2008;7.6
+"game";"Pokémon Snap";2010;7.8
+"game";"Final Fantasy Chronicles";2001;9.4
+"game";"Sonic Rivals 2";2007;6.5
+"game";"The Settlers: Heritage of Kings";2005;6.5
+"game";"Wii Fit";1925;8
+"game";"Resident Evil 5";2009;9
+"game";"Killzone 3";1924;8.5
+"game";"Emperor: Rise of the Middle Kingdom";2002;8.800000000000001
+"game";"Dead Rising 2: Off the Record";2011;7
+"game";"Sonic the Hedgehog 2 (8 бит)";1992;8
+"game";"Civilization IV: Colonization";2008;8.699999999999999
+"game";"Final Fantasy Tactics Advance";1924;9
+"game";"Final Fantasy Tactics A2: Grimoire of the Rift";1924;9
+"game";"Mount & Blade: Warband";2010;8.1
+"game";"Dead Island";2011;8
+"game";"Beyond Good & Evil";2003;9
+"game";"Call of Duty: Black Ops II";1922;9.300000000000001
+"game";"Valkyria Chronicles";2008;9
+"game";"Unreal Tournament";1999;9.6
+"game";"Call of Duty: World at War";2012;9.199999999999999
+"game";"ActRaiser";1990;7.5
+"game";"Hitman: Contracts";2004;8.5
+"game";"Battlefield Play4Free";2010;6
+"game";"X³: Terran Conflict";2008;8
+"game";"Mega Man 9";2010;8.6
+"game";"Commandos 3: Destination Berlin";1924;8.9
+"game";"Myst 4: Revelation";2004;9
+"game";"F.E.A.R. 3";1922;8
+"game";"BioShock Infinite";2013;9.5
+"game";"Need for Speed: Shift";2009;9
+"game";"Fight Night Round 4";2009;8.800000000000001
+"game";"The Legend of Zelda: The Minish Cap";2016;9
+"game";"Red Dead Redemption";1921;9.699999999999999
+"game";"Final Fantasy IX";1926;9.199999999999999
+"game";"Transformers: War for Cybertron";1925;9
+"game";"Tropico 3";1926;8.4
+"game";"Gears of War: Judgment";2013;9.199999999999999
+"game";"Just Cause 2";1926;8.800000000000001
+"game";"Sonic Chronicles: The Dark Brotherhood";1926;6.5
+"game";"Kingdom Hearts Birth by Sleep";2010;8.5
+"game";"Patapon";1922;9.199999999999999
+"game";"Alice: Madness Returns";2016;6.5
+"game";"Final Fantasy Tactics";2017;8.5
+"game";"Gears of War 3";2011;9
+"game";"Leisure Suit Larry: Box Office Bust";2009;2
+"game";"Castle Crashers";1925;9
+"game";"Alex Kidd in Miracle World";1986;9
+"game";"Uncharted 3: Drake’s Deception";2011;10
+"game";"Age of Empires II: The Age of Kings";1999;8.800000000000001
+"game";"Mario Kart: Double Dash‼";2014;7.9
+"game";"XIII (игра)";1928;8
+"game";"Resistance: Fall of Man";2017;9.1
+"game";"NHL 09";1925;9
+"game";"The Settlers 7: Paths to a Kingdom";1926;6
+"game";"The Warriors (игра)";1921;8.699999999999999
+"game";"Max Payne";2001;9.5
+"game";"Tom Clancy’s Splinter Cell: Chaos Theory";2014;9.6
+"game";"Lego Star Wars: The Complete Saga";2007;8
+"game";"StarCraft II: Heart of the Swarm";2013;8.6
+"game";"The 3rd Birthday";2010;8.5
+"game";"Mercenaries 2: World in Flames";2008;7.9
+"game";"Tekken 3D: Prime Edition";2012;7.5
+"game";"Band Hero";1925;7.9
+"game";"Front Mission 3";1921;8.800000000000001
+"game";"Final Fantasy XIII";2016;8.9
+"game";"King’s Bounty. Легенда о рыцаре";2008;8.1
+"game";"Devil May Cry 4";2008;8.699999999999999
+"game";"The Legend of Zelda: The Wind Waker";2002;9.6
+"game";"Syberia II";1928;8.6
+"game";"Company of Heroes: Opposing Fronts";1928;8.800000000000001
+"game";"Drakensang: The Dark Eye";2008;7.5
+"game";"Apache: Air Assault";2010;7.5
+"game";"Paper Mario";2000;9
+"game";"Spider-Man 2 (игра)";2004;9
+"game";"Xenosaga Episode I: Der Wille zur Macht";1925;8.800000000000001
+"game";"Risen";2009;8.6
+"game";"Fallout 3";1930;9.6
+"game";"Mega Man in Dr. Wily’s Revenge";1991;7.5
+"game";"Sonic Advance 2";1928;9
+"game";"Ratchet & Clank (игра)";1928;9.199999999999999
+"game";"Mega Man 7";1995;7
+"game";"Prey (игра)";2006;9
+"game";"Pokémon Platinum";1922;8.800000000000001
+"game";"Grand Theft Auto IV: The Lost and Damned";2009;9
+"game";"Race Driver: GRID";2008;8.699999999999999
+"game";"The Witcher 2: Assassins of Kings";2011;9
+"game";"F-Zero";2006;7.5
+"game";"Castlevania: Lords of Shadow";2019;7.5
+"game";"Worms: A Space Oddity";2008;7
+"game";"Serious Sam 3: BFE";2011;7
+"game";"Skate 2";2009;8.300000000000001
+"game";"Dance Central 2";2011;9
+"game";"The Simpsons Wrestling";2012;1
+"game";"Quake III Arena";1930;9.300000000000001
+"game";"Runes of Magic";2009;7.9
+"game";"Realm of the Mad God";2011;8
+"game";"Pokémon Colosseum";1922;7.5
+"game";"Kirby 64: The Crystal Shards";2015;7.9
+"game";"Forbidden Siren (игра)";2012;7.7
+"game";"Zombies Ate My Neighbors";1930;8
+"game";"Dead or Alive 4";1929;9
+"game";"Sherlock Holmes vs. Jack the Ripper";2009;8
+"game";"Torchlight II";2012;9.1
+"game";"Neverwinter Nights 2: Mysteries of Westgate";2009;7
+"game";"Sword of Mana";2018;7
+"game";"Warhammer 40;000: Space Marine";2011;7.5
+"game";"Rise of the Argonauts";2016;6.5
+"game";"Final Fantasy Legend II";1990;8
+"game";"Unlimited Saga";2017;6.6
+"game";"Red Faction";1922;9.1
+"game";"Halo 3: ODST";2009;9
+"game";"Spore: Galactic Adventures";1923;7.7
+"game";"Cursed Mountain";1925;7.5
+"game";"Resident Evil: The Mercenaries 3D";2011;6.5
+"game";"Twisted Metal 4";1999;6
+"game";"Jurassic Park: The Game";2011;5.5
+"game";"Worms 4: Mayhem";2005;7.5
+"game";"Dungeon Siege III";2017;6.5
+"game";"Twisted Metal (игра, 2012)";2012;9
+"game";"Wii Fit Plus";2015;8.199999999999999
+"game";"ObsCure 2";1925;7.5
+"game";"TimeSplitters 2";2002;9.1
+"game";"Serious Sam II";2005;82
+"game";"Need for Speed: Undercover";2008;5
+"game";"Infamous 2";2010;9
+"game";"The Sims 3: Все возрасты";2011;7
+"game";"Jak and Daxter: The Precursor Legacy";2020;9.4
+"game";"Blood Omen: Legacy of Kain";1996;8.5
+"game";"The Path";2009;7.7
+"game";"DmC: Devil May Cry";1925;8.9
+"game";"S.T.A.L.K.E.R.: Зов Припяти";2009;8.199999999999999
+"game";"The Punisher (игра, 2005)";2004;8
+"game";"Darkstar One";2014;8
+"game";"Armored Core 4";2020;5.9
+"game";"Lara Croft and the Guardian of Light";2012;8.5
+"game";"Metal Gear Solid 2: Sons of Liberty";1928;9.699999999999999
+"game";"Hearts of Iron III";2009;8.5
+"game";"Syndicate (игра, 2012)";2012;7.5
+"game";"Armed Assault";2006;7.3
+"game";"Panzer Dragoon Orta";2014;9.199999999999999
+"game";"Disgaea: Hour of Darkness";1927;9.4
+"game";"Crusader Kings 2";2012;8
+"game";"Radiant Historia";1922;8.5
+"game";"Skylanders: Spyro's Adventure";2011;8
+"game";"Rayman Raving Rabbids";1924;8.300000000000001
+"game";"Napoleon: Total War";2011;8.9
+"game";"The Beatles: Rock Band";2009;9
+"game";"Front Mission Evolved";2016;6
+"game";"ObsCure";2004;7.6
+"game";"Kirby Air Ride";2013;5.2
+"game";"Super Mario 3D Land";2011;9.5
+"game";"Kingdom Hearts II";1928;7.6
+"game";"Age of Empires Online";2011;7
+"game";"Sherlock Holmes: Secret of the Silver Earring";2004;8.300000000000001
+"game";"Red Faction: Armageddon";2011;7
+"game";"Legends of Pegasus";2012;4.1
+"game";"Dr. Mario";2000;7
+"game";"Aion (игра)";1922;8.5
+"game";"Assassin’s Creed III";2012;8.5
+"game";"Castlevania: Aria of Sorrow";2003;9.300000000000001
+"game";"The Temple of Elemental Evil";2003;7.5
+"game";"Sonic Advance 3";2017;9
+"game";"Tabula Rasa (игра)";2007;7.5
+"game";"Diablo II";2000;8.300000000000001
+"game";"South Park (игра)";1998;6.2
+"game";"Sniper: Ghost Warrior";2010;5
+"game";"Fallout: New Vegas";1921;9
+"game";"Eets";2006;7.4
+"game";"Grand Theft Auto: Liberty City Stories";1923;9
+"game";"Dear Esther";2012;8
+"game";"Shenmue II";1921;8.300000000000001
+"game";"BlazBlue: Calamity Trigger";1930;9.4
+"game";"Gothic II";2002;8
+"game";"Portal 2";1921;9.5
+"game";"Need for Speed: ProStreet";2007;7.9
+"game";"World of Warcraft";2004;9.1
+"game";"Operation Flashpoint: Red River";2011;75
+"game";"Kill Switch (игра)";2004;8
+"game";"Final Fantasy XIV";2010;5.5
+"game";"Homefront";2011;7
+"game";"Transformers: Fall of Cybertron";1924;8.5
+"game";"Rogue Trooper (игра)";1921;8
+"game";"Brave Fencer Musashi";2008;8.5
+"game";"Slender: The Arrival";2013;6.5
+"game";"Pokémon FireRed и LeafGreen";1923;9
+"game";"Assassin’s Creed: Brotherhood";2018;8
+"game";"Astro Boy: Omega Factor";2018;8.800000000000001
+"game";"Shift 2: Unleashed";2011;8.5
+"game";"Siren: Blood Curse";1924;8.4
+"game";"Ghostbusters: The Video Game";2009;8
+"game";"Metroid Prime 3: Corruption";1926;9.5
+"game";"Anno 1404";1923;8.199999999999999
+"game";"Star Wars: Empire at War";1927;7.6
+"game";"The Longest Journey";1999;9.300000000000001
+"game";"Twisted Metal: Small Brawl";2001;4.5
+"game";"Grand Theft Auto: Chinatown Wars";2010;9.5
+"game";"New Super Mario Bros.";2006;9.5
+"game";"Star Wars: The Old Republic";2020;9
+"game";"Mega Man 10";2010;8.5
+"game";"Demon’s Souls";2009;9.4
+"game";"Resident Evil Gaiden";1929;4
+"game";"Populous: The Beginning";2014;8.6
+"game";"Pokémon Diamond и Pearl";2006;8.5
+"game";"Stronghold 3";2011;5.5
+"game";"Let’s Tap";2016;8.5
+"game";"Empire: Total War";2012;9.5
+"game";"SWAT 4";2005;9
+"game";"Romancing SaGa";1992;6.5
+"game";"LocoRoco";2008;9
+"game";"Super Meat Boy";2010;9
+"game";"Flower";2009;9
+"game";"Grim Fandango";1998;9.4
+"game";"Two Worlds II";1924;6
+"game";"Marvel: Ultimate Alliance 2";1925;7.7
+"game";"Silent Hill: Shattered Memories";2010;8.6
+"game";"Yakuza (игра)";2007;8.199999999999999
+"game";"Forza Motorsport 2";1929;8.9
+"game";"Midnight Club 3: DUB Edition";2005;9.199999999999999
+"game";"Colin McRae: DiRT 2";2009;8.4
+"game";"Dante’s Inferno";1926;7.5
+"game";"Neverwinter Nights 2: Storm of Zehir";1921;8.300000000000001
+"game";"World in Conflict";2020;9.300000000000001
+"game";"Kingdoms of Amalur: Reckoning";2012;9
+"game";"Area 51 (игра, 2005)";1927;8.5
+"game";"Tom Clancy’s Ghost Recon: Future Soldier";2012;8.5
+"game";"Midnight Club: Los Angeles";1924;8.5
+"game";"Mount & Blade. Огнём и мечом";2011;7.5
+"game";"Enter the Matrix";2015;7.2
+"game";"Conan (игра, 2007)";2011;6.7
+"game";"Wii Sports";2006;7.5
+"game";"Dead Space";2008;8.699999999999999
+"game";"Cave Story";2012;8.5
+"game";"Fahrenheit";2007;8.4
+"game";"Mario Kart 64";2007;8.1
+"game";"Arcania: Gothic 4";2013;7.5
+"game";"Klonoa: Door to Phantomile";1922;8
+"game";"Heavy Rain";2010;9
+"game";"Sega Superstars Tennis";2018;6.2
+"game";"Metroid Prime 2: Echoes";1924;9.5
+"game";"Pirates of the Caribbean: At World’s End (игра)";1924;6.5
+"game";"Clock Tower 3";2018;7.7
+"game";"Tony Hawk’s Underground 2";2004;8.6
+"game";"Soulcalibur III";2018;8.5
+"game";"James Bond 007: Nightfire";1928;8.5
+"game";"Insanely Twisted Shadow Planet";2011;8
+"game";"Xenogears";1922;9.5
+"game";"Port Royale 2";2010;7.5
+"game";"Overclocked: A History of Violence";2008;7
+"game";"Black (игра)";1928;8.699999999999999
+"game";"Chaser: Вспомнить всё";2003;7.5
+"game";"Crash Bandicoot Purple: Ripto’s Rampage и Spyro Orange: The Cortex Conspiracy";1925;7
+"game";"Sniper Elite V2";2012;8
+"game";"The Binding of Isaac";2011;7.5
+"game";"187 Ride or Die";2005;5
+"game";"Crash Twinsanity";2004;7.7
+"game";"Yakuza 2";2007;8.5
+"game";"Vagrant Story";2000;9.6
+"game";"Lost Odyssey";2012;8.199999999999999
+"game";"Sherlock Holmes: The Awakened";2006;8.1
+"game";"Sonic Rivals";2006;7.4
+"game";"Neverwinter Nights 2: Mask of the Betrayer";2007;8.5
+"game";"The Secret of Monkey Island";2009;8.699999999999999
+"game";"RIFT";2011;8.5
+"game";"Braid";2008;8.800000000000001
+"game";"Sonic the Hedgehog (игра, 2006)";2006;4.8
+"game";"Mega Man 3";2013;9.5
+"game";"Silent Hill: Homecoming";1927;6.7
+"game";"Crash Bandicoot: The Huge Adventure";2015;9
+"game";"Rise of Nations: Thrones and Patriots";1921;8.9
+"game";"Aliens versus Predator 2";2001;6
+"game";"Mortal Kombat: Shaolin Monks";1930;8
+"game";"Microsoft Flight";2012;5
+"game";"Saints Row: The Third";2011;8.5
+"game";"The Settlers: Rise of an Empire";1928;6.5
+"game";"Gyromancer";2009;8.300000000000001
+"game";"FlOw";1923;7.6
+"game";"Legacy of Kain: Soul Reaver 2";2001;9
+"game";"Donkey Kong Country Returns";1924;9
+"game";"Deadly Premonition";2010;7.5
+"game";"Nintendogs";1922;8.800000000000001
+"game";"Final Fantasy Legend III";1991;7
+"game";"Thief: The Dark Project";1998;8.9
+"game";"Might and Magic VIII: Day of the Destroyer";2000;6.5
+"game";"Crash Nitro Kart";1928;8.199999999999999
+"game";"Lego Indiana Jones: The Original Adventures";2008;8.4
+"game";"Plants vs. Zombies";2009;9
+"game";"Temple Run";2011;7.5
+"game";"Fragile Dreams: Farewell Ruins of the Moon";2016;6.7
+"game";"SoulСalibur V";2012;7.5
+"game";"Final Fantasy XIII-2";2011;8
+"game";"Klonoa 2: Lunatea’s Veil";1925;9.199999999999999
+"game";"Crash Bandicoot 2: Cortex Strikes Back";2010;8.5
+"game";"Pokémon Ruby и Sapphire";2019;9.5
+"game";"Mount & Blade";2019;8
+"game";"Mario Kart Wii";2008;8.5
+"game";"James Bond 007: Everything or Nothing";2003;8.5
+"game";"Max Payne 3";2012;9
+"game";"Fallout 2";1998;8.9
+"game";"The Legend of Zelda: Skyward Sword";2011;10
+"game";"Dreamfall: The Longest Journey";1926;7.4
+"game";"Stacking";2011;8.5
+"game";"Dissidia 012 Final Fantasy";1922;9
+"game";"VVVVVV";2010;7.5
+"game";"Dishonored";2012;9.199999999999999
+"game";"Call of Duty: Modern Warfare 3";2011;9
+"game";"I Am Alive";2012;4.5
+"game";"Sonic Generations";2011;8.5
+"game";"Metal Gear Solid 3: Snake Eater";2014;9.6
+"game";"Pro Evolution Soccer 2011";2010;9
+"game";"SWAT 3: Close Quarters Battle";1999;8.800000000000001
+"game";"Assassin’s Creed II";1930;9.199999999999999
+"game";"WWF SmackDown! (игра)";2000;8.800000000000001
+"game";"Super Mario Sunshine";2002;9.4
+"game";"X-COM: UFO Defense";1995;9.4
+"game";"New Super Mario Bros. Wii";2009;8.9
+"game";"Stronghold";2001;87
+"game";"Tomb Raider: Chronicles";2011;6.5
+"game";"Tekken Tag Tournament 2";1927;7.5
+"game";"Dungeon Defenders";2010;8.5
+"game";"Завоевание Америки";2014;8.199999999999999
+"game";"Resistance 2";2013;9.5
+"game";"Galactic Civilizations II: Dread Lords";1923;8.699999999999999
+"game";"Chrono Cross";2011;9.699999999999999
+"game";"Super Smash Bros.";2012;8.5
+"game";"Earthworm Jim 3D";1999;7.3
+"game";"Dynasty Warriors 4";2003;8.6
+"game";"Sonic Shuffle";2000;4.7
+"game";"Crusader: No Remorse";1996;7
+"game";"The Legend of Dragoon";2010;7
+"game";"Need for Speed: Most Wanted";2005;8.5
+"game";"SimCity Societies: Destinations";2008;6.7
+"game";"Escape from Monkey Island";1929;8.699999999999999
+"game";"The Chronicles of Narnia: Prince Caspian";2008;6.3
+"game";"StarCraft II: Wings of Liberty";2010;9
+"game";"Saints Row 2";2008;8.199999999999999
+"game";"The Sims 2: Переезд в квартиру";1928;7.7
+"game";"SimCity (2013)";2013;7
+"game";"The Lord of the Rings: The Return of the King";2014;8.9
+"game";"Alan Wake’s American Nightmare";2012;8
+"game";"Dead Space 2";1927;9
+"game";"Guitar Hero";2015;9.199999999999999
+"game";"Ultimate Spider-Man (игра)";2014;8.4
+"game";"Shadow the Hedgehog (игра)";2018;4.9
+"game";"Call of Juarez: Bound in Blood";2009;7.7
+"game";"Darksiders";2010;9
+"game";"Burnout 3: Takedown";2010;9.5
+"game";"Kingdom Hearts: Chain of Memories";2007;8.4
+"game";"Borderlands";2009;8.800000000000001
+"game";"The Legend of Zelda: Phantom Hourglass";2007;9
+"game";"Two Worlds";1929;7.3
+"game";"Final Fantasy XII";2006;9.5
+"game";"Dead Head Fred";1926;8.300000000000001
+"game";"Pokémon Trading Card Game (игра)";2001;9
+"game";"Venetica";2009;6
+"game";"Under a Killing Moon";1994;9
+"game";"God of War: Chains of Olympus";2011;9.4
+"game";"Mega Man 4";2016;8
+"game";"Need for Speed: Nitro";2009;8
+"game";"ArmA 2: Operation Arrowhead";2010;8
+"game";"Crash of the Titans";1922;8
+"game";"God of War II";2007;9.699999999999999
+"game";"Oddworld: Abe’s Oddysee";1929;7.5
+"game";"Amnesia: The Dark Descent";2010;8.5
+"game";"Shank";2010;7
+"game";"Lufia: Curse of the Sinistrals";2012;8.5
+"game";"Anarchy Online";2001;7.2
+"game";"Heavenly Sword";2014;7
+"game";"Dragon Quest II";1987;8
+"game";"Dino Crisis 3";2016;6
+"game";"Crash Team Racing";2011;8.5
+"game";"Mega Man 5";2016;8.5
+"game";"Crisis Core: Final Fantasy VII";1925;8.5
+"game";"Mortal Kombat vs. DC Universe";2008;7.5
+"game";"The Simpsons Game";2007;7.7
+"game";"Периметр (игра)";2004;8
+"game";"Brothers in Arms: Hell's Highway";1926;7.6
+"game";"Day of Defeat: Source";2005;8.4
+"game";"Medal of Honor: Airborne";2007;7.9
+"game";"Universe at War: Earth Assault";1925;8
+"game";"Pro Evolution Soccer 2009";2008;8.5
+"game";"Super Monkey Ball Deluxe";1924;8.4
+"game";"Midnight Club 2";2003;9.1
+"game";"Final Fantasy XI";1923;8.800000000000001
+"game";"Tomb Raider III: Adventures of Lara Croft";1998;8
+"game";"World of Warcraft: The Burning Crusade";2007;8.800000000000001
+"game";"Star Wars Episode I: Obi-Wan's Adventures";2000;5
+"game";"Shadow of the Colossus";2005;9.699999999999999
+"game";"Skies of Arcadia";1927;9.199999999999999
+"game";"Dragon Quest V: Hand of the Heavenly Bride";1992;8.9
+"game";"The Lost World: Jurassic Park (PlayStation)";1997;5
+"game";"Soulcalibur IV";1931;8.699999999999999
+"game";"Sid Meier’s Civilization V";1924;9
+"game";"Sonic Colors";2010;8.5
+"game";"The Chronicles of Riddick: Assault on Dark Athena";2009;7.4
+"game";"Front Mission 4";2015;6.8
+"game";"Star Wars Battlefront: Renegade Squadron";2007;7.9
+"game";"Wii Music";2009;5
+"game";"Conker’s Bad Fur Day";1925;9.9
+"game";"Dragon Age: Origins";1927;8.699999999999999
+"game";"Rise and Fall: Civilizations at War";2006;6
+"game";"Odama";2010;6.5
+"game";"Might & Magic Heroes VI";2011;8
+"game";"Luigi’s Mansion: Dark Moon";2013;9.300000000000001
+"game";"Supreme Commander";2008;9
+"game";"Jak 3";1926;9.6
+"game";"SimCity Societies";2007;5.8
+"game";"Mega Man ZX";2012;8.199999999999999
+"game";"MAG";2010;7
+"game";"Dragon Age II";2010;8.5
+"game";"Metal Gear Solid 4: Guns of the Patriots";2008;10
+"game";"Overlord II";2009;6.3
+"game";"The Darkness II";2012;8
+"game";"F.E.A.R. 2: Project Origin";2013;8.1
+"game";"Borderlands 2";2012;9
+"game";"World of Warcraft: Wrath of the Lich King";2008;9
+"game";"Sonic the Hedgehog 4: Episode I";2010;8
+"game";"Корсары: Проклятье дальних морей";2000;8.5
+"game";"Alan Wake";2010;9
+"game";"Tom Clancy’s Ghost Recon Advanced Warfighter 2";2012;9.1
+"game";"Phantasy Star II";2005;8.5
+"game";"Kirby's Return to Dream Land";1927;7.5
+"game";"Grandia III";2014;7.6
+"game";"Brütal Legend";2009;9
+"game";"Gothic (игра)";2001;8.6
+"game";"Age of Empires";1997;7
+"game";"Resident Evil 6";2012;7.9
+"game";"Need for Speed: The Run";2017;6.5
+"game";"Blur (игра)";1928;7
+"game";"God of War: Ghost of Sparta";2010;9.5
+"game";"Dirge of Cerberus: Final Fantasy VII";2015;7
+"game";"Medal of Honor: Warfighter";2012;4
+"game";"Vampire: The Masquerade – Bloodlines";2004;8.4
+"game";"Penumbra: Black Plague";2008;7.7
+"game";"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe";1925;8.300000000000001
+"game";"Project Zero II: Crimson Butterfly";2003;8.5
+"game";"Xenoblade Chronicles";2019;9
+"game";"Cars 2: The Video Game";1923;8
+"game";"Alundra 2: A New Legend Begins";1999;7.7
+"game";"Call of Duty: Black Ops";2010;8.5
+"game";"Resident Evil: The Umbrella Chronicles";2012;7.9
+"game";"Shinobi (игра, 2002)";2015;7.8
+"game";"The Amazing Spider-Man (игра, 2012)";1929;7
+"game";"Far Cry Vengeance";1928;4
+"game";"Need for Speed: Underground 2";1927;9.1
+"game";"Lair";2011;4.9
+"game";"Fruit Ninja";2010;8.5
+"game";"Prison Break: The Conspiracy";1930;3.5
+"game";"Tomb Raider: Legend";2006;8.199999999999999
+"game";"Jak II";2017;9.5
+"game";"Saw: The Video Game";2009;7.5
+"game";"Rule of Rose";2012;4.9
+"game";"Crysis 2";2011;9
+"game";"Test Drive Unlimited 2";2011;5.5
+"game";"Halo 3";1926;9.5
+"game";"Age of Mythology";2011;9.300000000000001
+"game";"N+";2008;8.5
+"game";"WipEout HD";2009;9
+"game";"Star Wars Jedi Knight: Dark Forces II";1997;9.4
+"game";"Red Faction: Guerrilla";2009;8
+"game";"Singularity (игра)";1929;7
+"game";"Star Trek: Voyager Elite Force";2000;8.6
+"game";"Super Mario Galaxy";2007;9.699999999999999
+"game";"Sonic Riders: Zero Gravity";1922;5.8
+"game";"Gears of War 2";1930;9.5
+"game";"Blacklight: Retribution";2012;8.5
+"game";"Gabriel Knight 3: Blood of the Sacred, Blood of the Damned";1999;8.300000000000001
+"game";"Predator: Concrete Jungle";2005;5.5
+"game";"Heroes of Might and Magic III";1999;9
+"game";"Company of Heroes";1929;9.4
+"game";"Ониблейд";2010;6
+"game";"Tomb Raider: Anniversary";2007;8
+"game";"Tom Clancy’s Ghost Recon: Shadow Wars";1927;7
+"game";"Myst 5: End of Ages";1923;8.800000000000001
+"game";"Forza Horizon";2012;9
+"game";"Jade Empire";2008;9.9
+"game";"Max Payne 2: The Fall of Max Payne";2003;9.4
+"game";"Gran Turismo 3: A-Spec";2010;9.800000000000001
+"game";"Lone Survivor";1923;8.5
+"game";"Tom Clancy’s Splinter Cell";1928;9.6
+"game";"The Lord of the Rings: The Battle for Middle-earth II";2006;9
+"game";"Icewind Dale II";2002;9
+"game";"Crysis 3";2013;8.5
+"game";"Sonic Rush Adventure";2018;8
+"game";"Jak and Daxter: The Lost Frontier";2019;7.4
+"game";"Metal Gear Solid: Portable Ops";1921;9
+"game";"Majesty 2: The Fantasy Kingdom Sim";2009;7.5
+"game";"Vanquish (игра)";2010;8.5
+"game";"Guitar Hero: Warriors of Rock";1928;6
+"game";"Crash Bandicoot 3: Warped";1923;9.1
+"game";"Dance Central";2010;8
+"game";"Half-Life: Blue Shift";2001;7
+"game";"Guitar Hero: Smash Hits";1924;7
+"game";"Lost: Via Domus";2008;5.5
+"game";"Velvet Assassin";2009;5
+"game";"Halo: Combat Evolved";2014;9.699999999999999
+"game";"Wii Sports Resort";1923;7.7
+"game";"Command & Conquer 3: Kane’s Wrath";2008;7.9
+"game";"Diablo III";2012;9.5
+"game";"Grand Theft Auto Advance";2004;8.5
+"game";"Crash Bandicoot: The Wrath of Cortex";1923;7.4
+"game";"Unreal Tournament 2004";2018;9.4
+"game";"Tomb Raider II";1997;8
+"game";"Project Zero 3: The Tormented";1924;7.8
+"game";"Star Wars Jedi Knight: Jedi Academy";2003;8.800000000000001
+"game";"MicroBot";2010;6.5
+"game";"Second Sight";1921;7.9
+"game";"Zelda II: The Adventure of Link";2017;7
+"game";"The World Ends with You";2018;9
+"game";"Manhunt";1921;8.5
+"game";"Far Cry 3";2012;9
+"game";"Tales of Symphonia";2004;8.5
+"game";"Gran Turismo (PSP)";2009;6.8
+"game";"Rage (игра)";2011;8.5
+"game";"Grand Theft Auto: Vice City Stories";2007;9
+"game";"Shin Megami Tensei: Persona 4";2013;9
+"game";"American McGee’s Alice";2000;9.4
+"game";"Battlefield Vietnam";2019;8.199999999999999
+"game";"Oni";2001;7.5
+"game";"Cold Fear";2005;7.6
+"game";"The Elder Scrolls III: Morrowind";1922;9.4
+"game";"Jeanne d'Arc";1921;9
+"game";"Rome: Total War";2004;9.4
+"game";"Castlevania: Dawn of Sorrow";1930;9.300000000000001
+"game";"Call of Duty 4: Modern Warfare";1927;9.4
+"game";"Warhawk";1930;8.800000000000001
+"game";"Black & White";2001;9.699999999999999
+"game";"Torchlight";2009;8.6
+"game";"Forza Motorsport 3";2009;9.4
+"game";"The Godfather II";2010;7.7
+"game";"Mega Man (игра)";2012;8
+"game";"Uru: Ages Beyond Myst";2014;9
+"game";"Aliens: Colonial Marines";2013;4.5
+"game";"The Sims 2: Увлечения";1926;8.300000000000001
+"game";"Mortal Kombat Trilogy";1996;6
+"game";"Arcanum: Of Steamworks and Magick Obscura";1924;8.699999999999999
+"game";"Assassin’s Creed: Revelations";2011;8.5
+"game";"Killzone 2";2009;9.4
+"game";"Civilization III";2001;9.300000000000001
+"game";"Fight Night Champion";2011;8
+"game";"Deadlight";2012;8.5
+"game";"Dino Crisis 2";2000;9.300000000000001
+"game";"Crysis";2007;9.4
+"game";"Castlevania II: Simon’s Quest";1987;7
+"game";"ActRaiser 2";1993;7.5
+"game";"Haze";1922;6.5
+"game";"Tom Clancy’s Rainbow Six: Vegas 2";2020;8.4
+"game";"Need for Speed World";2010;6
+"game";"Assassin’s Creed: Bloodlines";2019;6.9
+"game";"WWE ’12";2012;9
+"game";"Kirby: Squeak Squad";1922;7.8
+"game";"Mario & Luigi: Bowser’s Inside Story";2014;9.5
+"game";"Backbreaker (игра)";2009;5
+"game";"Doom 3";2012;9.300000000000001
+"game";"Super Mario All-Stars";2012;7
+"game";"Command & Conquer: Renegade";2002;7.4
+"game";"Shadows of the Damned";2011;7
+"game";"Final Fantasy X-2";2018;9.5
+"game";"Dragon Quest Monsters: Terry's Wonderland";2002;9
+"game";"Castlevania: Symphony of the Night";1921;9
+"game";"Spore";2008;8.800000000000001
+"game";"Mass Effect";2007;9.4
+"game";"FIFA 10";2009;9
+"game";"The Legend of Zelda: Majora's Mask";2018;9.9
+"game";"Mafia: The City of Lost Heaven";1930;9.199999999999999
+"game";"Wii Play";2012;5.5
+"game";"System Shock 2";1999;9
+"game";"Minecraft";2011;9
+"game";"Bulletstorm";2011;8
+"game";"Battlestations: Midway";2007;8.5
+"game";"Игра престолов (видеоигра)";2012;4
+"game";"Mega Man X";2008;9
+"game";"World of Tanks";2010;7.5
+"game";"Rock Band Unplugged";2009;8.199999999999999
+"game";"Legacy of Kain: Soul Reaver";1999;9.300000000000001
+"game";"Uncharted: Golden Abyss";2011;8.5
+"game";"Warhammer 40;000: Dawn of War";1924;8.800000000000001
+"game";"Painkiller: Hell & Damnation";2012;5
+"game";"Rayman Origins";2011;9.5
+"game";"Sonic the Hedgehog 2 (16 бит)";1992;8.5
+"game";"Golden Sun";2011;9.699999999999999
+"game";"You’re in the Movies";1928;4.2
+"game";"Risen 2";2012;6.5
+"game";"Guitar Hero World Tour";2008;8.800000000000001
+"game";"The Sims 2";2005;9.4
+"game";"Fight Night Round 3";2006;8.300000000000001
+"game";"Burnout Revenge";1923;8.9
+"game";"Final Fantasy Crystal Chronicles";2012;7.5
+"game";"Metroid: Other M";2010;8.5
+"game";"Marvel vs. Capcom 3: Fate of Two Worlds";2017;8.5
+"game";"Bushido Blade";2007;8.699999999999999
+"game";"Twisted Metal III";1998;4
+"game";"Sherlock Holmes versus Arsène Lupin";2007;7
+"game";"Assassin’s Creed";2011;9.199999999999999
+"game";"The Elder Scrolls V: Skyrim";2011;9.5
+"game";"Метро 2033 (игра)";2010;6.9
+"game";"The Settlers III";1998;6.9
+"game";"Civilization IV";2005;9.4
+"game";"Jurassic Park: Trespasser";1998;4.7
+"game";"The Legend of Zelda: Ocarina of Time";1926;10
+"game";"Devil May Cry";1929;9.6
+"game";"Kirby: Canvas Curse";2014;9
+"game";"Tomb Raider: The Angel of Darkness";2003;5.3
+"game";"Mass Effect 3";2012;9.5
+"game";"Rebelstar: Tactical Command";2013;7.7
+"game";"Professor Layton and the Curious Village";2007;8
+"game";"Dawn of Mana";1922;6.5
+"game";"Europa Universalis: Rome";2008;8.699999999999999
+"game";"Battlefield 1943";2009;8.5
+"game";"Command & Conquer 4: Tiberian Twilight";2019;7.4
+"game";"Super Smash Bros. Brawl";1926;9.5
+"game";"Смерть шпионам: Момент истины";2009;8
+"game";"Forza Motorsport 4";2011;9.5
+"game";"Grand Theft Auto (игра)";2008;6
+"game";"Dead Rising 2";2010;8.5
+"game";"Final Fantasy VI";1994;9
+"game";"Pokémon Dash";2004;5
+"game";"Bionicle: The Game";1931;3.8
+"game";"Call of Duty 2";2005;9
+"game";"Another World";2011;8.5
+"game";"Mega Man X8";1921;7.3
+"game";"Baldur’s Gate";1998;9.4
+"game";"Halo 4";2012;9.800000000000001
+"game";"Sonic Free Riders";2010;7.5
+"game";"Too Human";1928;7.8
+"game";"Halo Wars";1927;9
+"game";"Eternal Darkness: Sanity’s Requiem";2002;9.6
+"game";"Yakuza 3";2012;8.5
+"game";"Sid Meier’s Pirates! (2004)";2004;9.199999999999999
+"game";"Dark Age of Camelot";2001;90
+"game";"Wet (игра)";2018;6.6
+"game";"No More Heroes (игра)";1922;7.8
+"game";"Theatrhythm Final Fantasy";2012;8.5
+"game";"Catherine (игра)";1926;9
+"game";"Age of Empires III: The Asian Dynasties";1924;8
+"game";"Medal of Honor (игра, 2010)";2010;6
+"game";"Command & Conquer 3: Tiberium Wars";2007;8.5
+"game";"Darksiders II";2012;7.5
+"game";"Planescape: Torment";1999;9.199999999999999
+"game";"Star Fox Adventures";1927;9
+"game";"Mega Man X5";1924;8.5
+"game";"Dominions II: The Ascension Wars";2003;6.5
+"game";"Гамлет (игра)";2010;7.5
+"game";"Einhänder";2008;9
+"game";"Metroid: Zero Mission";2019;9
+"game";"Total War: Shogun 2";2011;9
+"game";"Heroes of Mana";2014;8
+"game";"Sonic Unleashed";2008;7.2
+"game";"Need for Speed II";1997;6
+"game";"Army of Two";2008;7.9
+"game";"Hitman: Blood Money";2006;8
+"game";"The Final Fantasy Legend";2002;6
+"game";"Bionic Commando (игра, 2009)";1922;8
+"game";"Metal Gear Rising: Revengeance";2013;8.5
+"game";"Prince of Persia: The Forgotten Sands";2012;8
+"game";"Xenosaga Episode II: Jenseits von Gut und Böse";2015;7.9
+"game";"Bastion";2011;9
+"game";"Tales of Vesperia";1926;8.199999999999999
+"game";"Ni no Kuni";2010;9.4
+"game";"Aliens versus Predator (игра, 2010)";2010;8.5
+"game";"Uncharted 2: Among Thieves";2009;9.5
+"game";"Gran Turismo 5 prologue";1927;8.5
+"game";"The Lord of the Rings: War in the North";1923;7
+"game";"Tom Clancy’s H.A.W.X.";2009;6.8
+"game";"Star Wars: Obi-Wan";2014;5.9
+"game";"Counter-Strike: Global Offensive";1921;8
+"game";"James Cameron’s Avatar: The Game";2009;6.8
+"game";"Gears of War";2015;9.4
+"game";"Resident Evil: Operation Raccoon City";2012;4
+"game";"Ju-on: The Grudge (игра)";2013;2.5
+"game";"Silent Hill: Downpour";2012;4.5
+"game";"Final Fantasy XII: Revenant Wings";2020;8.300000000000001
+"game";"LittleBigPlanet 2";2011;9
+"game";"Children of Mana";1930;8
+"game";"The Secret World";2012;7.9
+"game";"Mortal Kombat (игра, 2011)";1921;8.5
+"game";"Twisted Metal (игра, 1995)";2011;7
+"game";"Super Mario World 2: Yoshi’s Island";1924;9.4
+"game";"SaGa Frontier";2008;7
+"game";"Hotline Miami";2012;8.800000000000001
+"game";"Okamiden: Chiisaki Taiyo";2018;8.5
+"game";"Legend of Mana";1922;8.300000000000001
+"game";"Crash Bandicoot";1996;7.5
+"game";"Golden Sun: The Lost Age";2014;9
+"game";"Bionic Commando Rearmed";2008;9.4
+"game";"Spyro: Enter the Dragonfly";1929;6
+"game";"Blaster Master";2013;9
+"game";"From Dust";2011;85
+"game";"Cities XL";2009;8.1
+"game";"Medal of Honor: Vanguard";2007;7.2
+"game";"Need for Speed: Hot Pursuit 2";2002;9
+"game";"Manhunt 2";2007;7.7
+"game";"Battlefield Heroes";2009;8
+"game";"Sins of a Solar Empire";2008;8.9
+"game";"Scratches";2006;7.7
+"game";"Myst III: Exile";1921;80
+"game";"Uncharted: Drake’s Fortune";2007;9.1
+"game";"Cities XL 2011";2010;7
+"game";"Super Mario RPG: Legend of the Seven Stars";1922;9.5
+"game";"Kirby & the Amazing Mirror";2018;8
+"game";"Cut the Rope";2010;9
+"game";"Resident Evil Zero";1921;8.199999999999999
+"game";"Parasite Eve (игра)";1998;7.4
+"game";"Crysis Warhead";2008;9.4
+"game";"Tom Clancy’s Ghost Recon Advanced Warfighter";2010;9.199999999999999
+"game";"Frontlines: Fuel of War";1929;7
+"game";"Battlefield 2";1922;8.9
+"game";"The House of the Dead: Overkill";2013;8.300000000000001
+"game";"The Sims Medieval";1925;8.5
+"game";"Pokémon Pinball: Ruby & Sapphire";1925;8.800000000000001
+"game";"Silent Hill (игра)";1926;9
+"game";"Might and Magic VI: The Mandate of Heaven";1998;9
+"game";"Sonic and the Secret Rings";2020;6.9
+"game";"Lost Planet 2";2010;6
+"game";"Bully";2012;8.9
+"game";"The Legend of Zelda: Link's Awakening";1993;10
+"game";"F-Zero GX";1925;9.300000000000001
+"game";"InFamous";1929;9.199999999999999
+"game";"Kingdom Hearts 3D: Dream Drop Distance";2012;8.5
+"game";"Ведьмак (игра)";2007;8.5
+"game";"Sonic and the Black Knight";2013;3.9
+"game";"Kirby Mass Attack";2019;8.5
+"game";"Kirby's Epic Yarn";2017;9
+"game";"Eragon (игра)";1923;4.7
+"game";"Tekken 3";1997;9.300000000000001
+"game";"Sleeping Dogs";2012;8.5
+"game";"FIFA Football 2002";2001;8.5
+"game";"The King of Fighters XIII";1922;7
+"game";"Deus Ex: Human Revolution";2011;9
+"game";"The Legend of Zelda: Spirit Tracks";2009;9.300000000000001
+"game";"Call of Duty: Modern Warfare 2";2009;9.5
+"game";"The Saboteur";2009;7.5
+"game";"Ninja Gaiden 3";2012;3
+"game";"Syberia";2002;7.1
+"game";"Star Wars Jedi Knight: Mysteries of the Sith";1998;8
+"game";"God of War (игра)";2005;9.800000000000001
+"game";"Aquaria";2007;7.4
+"game";"Devil May Cry 3: Dante’s Awakening";1922;9.6
+"game";"Billy Hatcher and the Giant Egg";1931;7.7
+"game";"Gran Turismo 4";1922;9.5
+"game";"Birds of Steel";2012;8.5
+"game";"Battlefield: Bad Company 2";2010;9.5
+"game";"Resident Evil Survivor";2002;4
+"game";"SimCity 4";2003;9.199999999999999
+"game";"Fight Night Round 2";2018;9
+"game";"Warhammer 40;000: Dawn of War — Dark Crusade";1929;8.699999999999999
+"game";"Tomb Raider: The Last Revelation";2000;8.5
+"game";"L.A. Noire";2011;8.5
+"game";"Kirby's Dream Land 3";1928;7
+"game";"Final Fantasy Crystal Chronicles: My Life as a King";2012;7.5
+"game";"Grand Theft Auto 2";1999;7.3
+"game";"Call of Cthulhu: Dark Corners of the Earth";1928;7.8
+"game";"Hidden & Dangerous 2";2003;7.9
+"game";"Burnout Paradise";2009;8.800000000000001
+"game";"Властелин Колец Онлайн";2007;8.6
+"game";"Dead Rising";2006;8.300000000000001
+"game";"Fuel (игра)";2009;5.1
+"game";"Tekken 6";2009;8.800000000000001
+"game";"Medieval II: Total War";2006;8.800000000000001
+"game";"Dragon Quest VII";2000;8.699999999999999
+"game";"Lost Planet: Extreme Condition";2012;8.5
+"game";"Valkyrie Profile: Covenant of the Plume";2016;8.5
+"game";"Assassin’s Creed III: Liberation";2012;7.2
+"game";"Heroes of Might and Magic III: Armageddon’s Blade";1999;9
+"game";"S.T.A.L.K.E.R.: Тень Чернобыля";2007;8.199999999999999
+"game";"StarCraft";1998;9.5
+"game";"The Sims 3";2009;8.9
+"game";"Chaos Legion";2003;6.5
+"game";"Team Fortress 2";2010;8.9
+"game";"Soldier of Fortune: Payback";1927;5.9
+"game";"Killzone: Liberation";2006;9
+"game";"Hard Corps: Uprising";2015;8.5
+"game";"Halo 2";2011;9.800000000000001
+"game";"XCOM: Enemy Unknown";2012;8.199999999999999
+"game";"Animal Crossing: Wild World";1931;8.800000000000001
+"game";"BioShock 2";2010;9.1
+"game";"Guitar Hero III: Legends of Rock";2007;8.9
+"game";"Crackdown";1922;8
+"game";"Grand Theft Auto III";1926;9.6
+"game";"Казаки: Европейские войны";2001;7.5
+"game";"GUN (игра)";1925;8
+"game";"Half-Life 2";2018;9.699999999999999
+"game";"Hitman: Absolution";2012;9
+"game";"Alpha Protocol";2010;6.3
+"game";"Disgaea 2: Cursed Memories";1929;8.5
+"game";"DEFCON (игра)";2006;8.5
+"game";"World of Warcraft: Mists of Pandaria";2012;8.699999999999999
+"game";"Final Fantasy X";2001;9.5
+"game";"Kid Icarus";2012;7
+"game";"Анабиоз: Сон разума";2009;6
+"game";"Silent Hill: Origins";2016;8
+"game";"X-Men Origins: Wolverine (игра)";2009;7.8
+"game";"Pokémon Mystery Dungeon: Red Rescue Team и Blue Rescue Team";2018;6.5
+"game";"Zeno Clash";2009;8.4
+"game";"Rogue Warrior";2009;1.5
+"game";"Sonic Rush";2018;9
+"game";"Half-Life 2: Episode One";2006;8.5
+"game";"The Sims 3: Мир приключений";2020;8.300000000000001
+"game";"Halo: Reach";2010;10
+"game";"Jagged Alliance 2";1999;8.5
+"game";"Castlevania: Circle of the Moon";2011;9
+"game";"Dragon Quest IX: Sentinels of the Starry Skies";2011;8
+"game";"Pokémon HeartGold и SoulSilver";2014;8.5
+"game";"Assassin’s Creed II: Discovery";2010;8
+"game";"Pokémon Gold и Silver";1999;10
