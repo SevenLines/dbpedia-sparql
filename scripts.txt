@@ -11,51 +11,78 @@ PREFIX dbpedia: <http://dbpedia.org/>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
 PREFIX do: <http://dbpedia.org/ontology/>
 
-# список актеров о которых есть информация в википедии на русском
+# Актеры
 SELECT DISTINCT "actors" ?name MAX(?birthDate) MAX(?birthPlaceRu) MAX(?yearsActive)
 WHERE { 
-   ?a dbpedia2:occupation :Actor .# актеров пожалуйста
+   ?a dbpedia2:occupation :Actor . # актеров пожалуйста
    ?a do:birthDate ?birthDate .# их дату рождения
    ?a dbpedia2:yearsActive ?yearsActive . # их дату начала актерской жизни
-   ?a rdfs:label ?name ;# их имена
-      do:birthPlace ?birthPlace .# ссылка на место рождения
-   ?birthPlace rdf:type do:Country .# только страны рождения
-   ?birthPlace rdfs:label ?birthPlaceRu .# название страны рождения
-   FILTER(langMatches(lang(?birthPlaceRu), "ru"))# только страны на русском
-   FILTER(langMatches(lang(?name), "ru"))# только имена на русском
-   FILTER( isNumeric(?yearsActive) && (?yearsActive < 3000) )# фильтр ошибок в датах
+   ?a rdfs:label ?name ; # их имена
+      do:birthPlace ?birthPlace . # ссылка на место рождения
+   ?birthPlace rdf:type do:Country . # только страны рождения
+   ?birthPlace rdfs:label ?birthPlaceRu . # название страны рождения
+   FILTER(langMatches(lang(?birthPlaceRu), "ru")) # только страны на русском
+   FILTER(langMatches(lang(?name), "ru")) # только имена на русском
+   FILTER( isNumeric(?yearsActive) && (?yearsActive < 3000) ) # фильтр ошибок в датах
 }
-GROUP BY ?name #у некоторых актеров несколько дат и мест рождения,  их нужно убрать
+GROUP BY ?name #у некоторых актеров несколько дат и мест рождения,  их нужно убрать
 ORDER BY 2
 
 # Музыкальные группы	
 SELECT "bands" as ?type ?title MAX(?originRu) as ?origin MAX(?dateStart) as ?dateStart COUNT(?mem) as ?members_count
 WHERE {
- ?b a do:Band .# группы
- ?b rdfs:label ?title .#название
- ?b dbpedia2:yearsActive ?dateStart .# дата начала активности
- ?b do:formerBandMember ?mem .# состав
- ?b dbpedia2:origin ?origin .# ссылка на место происхождения
- ?origin a do:Country .# только страны
- ?origin rdfs:label ?originRu .# названия стран
- filter( langMatches(lang(?title), "ru") )# только названия на русском
- filter( langMatches(lang(?originRu), "ru") ) # только страны на русском
- filter( isNumeric(?dateStart) && ?dateStart < 3000 )# фильтр ошибок в датах
+ ?b a do:Band . # группы
+ ?b rdfs:label ?title . #название
+ ?b dbpedia2:yearsActive ?dateStart . # дата начала активности
+ ?b do:formerBandMember ?mem . # состав
+ ?b dbpedia2:origin ?origin . # ссылка на место происхождения
+ ?origin a do:Country . # только страны
+ ?origin rdfs:label ?originRu . # названия стран
+ filter( langMatches(lang(?title), "ru") ) # только названия на русском
+ filter( langMatches(lang(?originRu), "ru") ) # только страны на русском
+ filter( isNumeric(?dateStart) && ?dateStart < 3000 ) # фильтр ошибок в датах
 }
-GROUP BY ?title# на всякий пожарный чтобы убрать повторы
+GROUP BY ?title
+# на всякий пожарный чтобы убрать повторы
 ORDER BY 2
 
 #Автомобили
-SELECT ?label ?y MAX(?t) ?m ?l ?country 
+SELECT "auto" as ?type, ?label, ?y, MAX(?t), ?country 
 WHERE {
- ?a a do:Automobile . # автомобили
- ?a dbpedia2:production ?y .# год начала производства
- ?a rdfs:label ?label .# название автомобля
- ?a dbpedia2:transmission ?t .# кол-во передач
- ?a dbpedia2:manufacturer ?m . ?m do:location ?l . ?l do:country ?c . ?c rdfs:label ?country# страна производителя атомобиля
- filter(langMatches(lang(?label), "ru"))# названия автомобилей только на русском
- filter(isNumeric(?y) && ?y < 3000)# фильтр ошибок в датах
- filter(isNumeric(?t) && ?t < 20 ) # количество передач не более 20
- filter(langMatches(lang(?country), "ru")) # только страны на русском
+ ?a a do:Automobile . # автомобили	
+ ?a dbpedia2:production ?y . # год начала производства
+ ?a rdfs:label ?label . # название автомобля
+ ?a dbpedia2:transmission ?t . # кол-во передач
+ ?a dbpedia2:manufacturer ?m . ?m do:location ?l . ?l do:country ?c . ?c rdfs:label ?country # страна производителя атомобиля
+ filter(langMatches(lang(?label), "ru")) # названия автомобилей только на русском
+ filter(isNumeric(?y) && ?y < 3000) # фильтр ошибок в датах
+ filter(isNumeric(?t) && ?t < 20 ) # количество передач не более 20
+ filter(langMatches(lang(?country), "ru")) # только страны на русском
 }
 GROUP BY ?a ?y ?label ?m ?l ?country
+
+# Страны
+SELECT  "country" as ?type, ?label, MAX(?pop), MAX(?fd), MAX(?wp)
+WHERE {
+ ?c a do:Country . # страны
+ ?c rdfs:label ?label . # название страны
+ ?c dbpedia2:populationEstimate ?pop . # население
+ ?c do:foundingDate ?fd . # дата образования
+ ?c do:percentageOfAreaWater ?wp . # доля воды на занимаемой терретории
+ FILTER(langMatches(lang(?label), "ru")) # только русские названия
+ FILTER(isNumeric(?pop)) # правим ошибки населения
+}
+GROUP BY ?label
+
+# Самолеты
+SELECT "airplane", ?title, ?lRu, year(?s), MAX(?c)
+WHERE {
+ ?a a do:Aircraft .
+ ?a rdfs:label ?title .
+ ?a do:manufacturer ?m . ?m rdfs:label ?lRu .
+ ?a do:productionStartYear ?s.
+ ?a do:numberBuilt ?c .
+ filter(langMatches(lang(?lRu), "ru"))
+ filter(langMatches(lang(?title), "ru"))
+}
+GROUP BY ?title ?lRu year(?s)

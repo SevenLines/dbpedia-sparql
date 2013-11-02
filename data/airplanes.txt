@@ -1,0 +1,385 @@
+# тип, модель, производитель, год начала производства, кол-во выпущенных единиц
+"airplane";"Saab 90 Scandia";"Saab AB";1946;18
+"airplane";"МиГ-3";"МиГ (компания)";1940;3172
+"airplane";"Embraer R-99";"Embraer";1999;10
+"airplane";"British Aerospace Jetstream";"British Aerospace";1980;386
+"airplane";"Ту-104";"КБ Туполев";1956;201
+"airplane";"Hawker Siddeley HS-125";"British Aerospace";1962;1000
+"airplane";"Tachikawa Ki-17";"Tachikawa";1936;560
+"airplane";"Hughes 500";"Hughes Helicopters";1976;4700
+"airplane";"Dassault Mystère";"Dassault Aviation";1951;166
+"airplane";"Piper J-4";"Piper Aircraft";1938;1251
+"airplane";"Ту-154";"КБ Туполев";1968;1026
+"airplane";"Boeing KC-135 Stratotanker";"Boeing";1954;803
+"airplane";"Beechcraft 1900";"Beechcraft";1982;695
+"airplane";"МиГ-27";"МиГ (компания)";1970;1075
+"airplane";"Focke-Wulf Fw 189 Uhu";"Focke-Wulf";1940;864
+"airplane";"Vickers Wellington";"Vickers-Armstrongs";1936;11461
+"airplane";"Saab 29 Tunnan";"Saab AB";1950;661
+"airplane";"Ми-24";"Московский вертолётный завод имени М. Л. Миля";1969;2300
+"airplane";"Savoia-Marchetti SM.79 Sparviero";"SIAI-Marchetti";1936;1350
+"airplane";"Cessna 180 Skywagon";"Cessna";1953;6193
+"airplane";"Aeronca 15 Sedan";"Aeronca Aircraft Inc";1948;561
+"airplane";"Ан-22";"КБ Антонов";1966;68
+"airplane";"Як-9";"ОКБ имени Яковлева";1942;16769
+"airplane";"Chance Vought F4U Corsair";"Vought";1942;12571
+"airplane";"Canadair CL-84";"Canadair";1964;4
+"airplane";"Learjet 25";"Learjet";1966;369
+"airplane";"Beechcraft T-34 Mentor";"Beechcraft";1953;2300
+"airplane";"Dassault Super Mystère";"Dassault Aviation";1956;180
+"airplane";"Cessna 550";"Cessna";1978;940
+"airplane";"Aero Boero AB-115";"Aero Boero";1969;45
+"airplane";"Cessna Citation Mustang";"Cessna";2005;400
+"airplane";"Vickers VC10";"Vickers-Armstrongs";1962;54
+"airplane";"Dassault Mirage IV";"Dassault Aviation";1963;62
+"airplane";"Fokker F28 Fellowship";"Fokker";1967;241
+"airplane";"Boeing F/A-18E/F Super Hornet";"McDonnell Douglas";1995;500
+"airplane";"Ка-126";"IAR";1989;17
+"airplane";"Kawasaki P-2J";"Lockheed Corporation";1966;83
+"airplane";"Lockheed C-5 Galaxy";"Lockheed Corporation";5;131
+"airplane";"Piaggio P.180 Avanti";"Piaggio Aero";1986;216
+"airplane";"De Havilland Tiger Moth";"De Havilland";1931;8868
+"airplane";"Як-15";"ОКБ имени Яковлева";1946;280
+"airplane";"И-5";"ЦКБ-39";1931;803
+"airplane";"Ан-74";"КБ Антонов";1986;81
+"airplane";"Saab 21R";"Saab AB";1950;64
+"airplane";"МиГ-23";"МиГ (компания)";1967;5047
+"airplane";"Tachikawa Ki-55";"Tachikawa";1940;1389
+"airplane";"Convair 990";"Convair";1961;37
+"airplane";"Sud-Aviation Alouette III";"Sud Aviation";1961;2000
+"airplane";"Britten-Norman Trislander";"Britten-Norman";1970;72
+"airplane";"FMA IA 63 Pampa";"FAdeA";1984;27
+"airplane";"Beechcraft Travel Air";"Beechcraft";1958;720
+"airplane";"Grumman C-2 Greyhound";"Grumman Corporation";2;58
+"airplane";"McDonnell Douglas AV-8B Harrier II";"BAE Systems";1981;323
+"airplane";"Sikorsky S-92";"Sikorsky Aircraft";1998;129
+"airplane";"Boeing B-17 Flying Fortress";"Boeing";1936;12731
+"airplane";"Dassault Mirage 2000";"Dassault Aviation";1978;601
+"airplane";"Су-25";"Тбилисский авиазавод";1978;1024
+"airplane";"Lockheed S-3 Viking";"Lockheed Corporation";1974;188
+"airplane";"Fiat RS.14";"Fiat";1941;188
+"airplane";"Hughes H-4 Hercules";"Hughes Aircraft";1947;1
+"airplane";"Dornier Do 217";"Dornier";1940;1925
+"airplane";"Dassault/Dornier Alpha Jet";"Dornier";1973;480
+"airplane";"Avia S-199";"Avia";1947;603
+"airplane";"Dornier Do 328";"Fairchild Aircraft";1991;217
+"airplane";"Douglas DC-6";"Douglas Aircraft Company";1946;704
+"airplane";"Vickers Windsor";"Vickers-Armstrongs";1943;3
+"airplane";"Ту-143";"КБ Туполев";1970;950
+"airplane";"McDonnell Douglas AH-64 Apache";"McDonnell Douglas";1983;1174
+"airplane";"Tachikawa Ki-9";"Tachikawa";1934;2618
+"airplane";"Fairchild 22";"Fairchild Aircraft";1931;127
+"airplane";"Dassault-Breguet Super Étendard";"Dassault Aviation";1977;85
+"airplane";"Fokker 100";"Fokker";1986;283
+"airplane";"Aichi E16A Zuiun";"Aichi";1944;256
+"airplane";"Fairchild Hiller FH-1100";"Fairchild Aircraft";1966;253
+"airplane";"МиГ-1";"МиГ (компания)";1940;100
+"airplane";"Dassault Rafale";"Dassault Aviation";1986;115
+"airplane";"Blohm & Voss BV 138";"Blohm + Voss";1938;297
+"airplane";"Britten-Norman Islander";"Britten-Norman";1965;1280
+"airplane";"Cessna 210";"Cessna";1957;9240
+"airplane";"Mitsubishi F-2";"Lockheed Martin";1995;94
+"airplane";"Ту-141";"КБ Туполев";1979;142
+"airplane";"Henschel Hs 129";"Henschel-Werke";1940;865
+"airplane";"PZL-44";"PZL";1938;1
+"airplane";"Pilatus PC-6";"Pilatus Aircraft";1959;562
+"airplane";"Showa L2D";"Nakajima";1940;487
+"airplane";"МиГ-27";"Hindustan Aeronautics";1970;1075
+"airplane";"Airbus A330 MRTT";"Airbus Military";2007;11
+"airplane";"АНТ-40";"КБ Туполев";1936;6945
+"airplane";"Bell 206";"Bell Helicopter Textron";1962;7300
+"airplane";"Aero L-159 Alca";"Aero Vodochody";1997;72
+"airplane";"Dassault Falcon 20";"Dassault Aviation";1963;508
+"airplane";"De Havilland Dove";"De Havilland";1946;542
+"airplane";"Hawker Siddeley Harrier";"Hawker Siddeley";1967;278
+"airplane";"Dornier Do 328";"Dornier";1991;217
+"airplane";"Dornier Do 335";"Dornier";1944;37
+"airplane";"North American F-100 Super Sabre";"North American Aviation";1953;2294
+"airplane";"Yokosuka MXY7 Ohka";"1-й авиатехнический арсенал флота Йокосука";1944;852
+"airplane";"Consolidated B-24 Liberator";"Consolidated Aircraft Corporation";1940;18482
+"airplane";"Consolidated PBY Catalina";"Consolidated Aircraft Corporation";1936;3305
+"airplane";"Tachikawa Ki-54";"Tachikawa";1941;1368
+"airplane";"ВМ-Т";"ОКБ Мясищева";2;2
+"airplane";"Convair CV-240";"Convair";1947;1181
+"airplane";"Vickers Wellesley";"Vickers-Armstrongs";1936;177
+"airplane";"McDonnell Douglas MD-90";"McDonnell Douglas";1993;116
+"airplane";"Ан-14";"КБ Антонов";1966;332
+"airplane";"Let L-410 Turbolet";"Let Kunovice";1971;1138
+"airplane";"Lockheed Constellation";"Lockheed Corporation";1943;856
+"airplane";"Heinkel He 111";"Heinkel";1935;5656
+"airplane";"MBB/Kawasaki BK 117";"Kawasaki Heavy Industries";1979;443
+"airplane";"McDonnell Douglas DC-9";"Douglas Aircraft Company";1965;976
+"airplane";"Vickers Viscount";"Vickers-Armstrongs";1948;445
+"airplane";"МиГ-9";"МиГ (компания)";1946;610
+"airplane";"Piper PA-34 Seneca";"Piper Aircraft";1971;5000
+"airplane";"McDonnell Douglas AV-8B Harrier II";"McDonnell Douglas";1981;323
+"airplane";"Mitsubishi Ki-30";"Mitsubishi";1938;704
+"airplane";"Ан-12";"КБ Антонов";1957;1248
+"airplane";"Piper PA-23";"Piper Aircraft";1952;6976
+"airplane";"Saab 21";"Saab AB";1945;298
+"airplane";"СОКО Г-2 Галеб";"СОКО";1965;248
+"airplane";"Potez 840";"Potez";1961;8
+"airplane";"Fiat G.50 Freccia";"Fiat";1935;791
+"airplane";"Ми-26";"Московский вертолётный завод имени М. Л. Миля";1980;316
+"airplane";"Airbus A310";"Airbus";1983;255
+"airplane";"Douglas DC-2";"Douglas Aircraft Company";1934;200
+"airplane";"Як-17";"Тбилисский авиазавод";1948;430
+"airplane";"Douglas SBD Dauntless";"Douglas Aircraft Company";1940;5936
+"airplane";"Hughes TH-55 Osage";"Hughes Helicopters";1961;2800
+"airplane";"Kawasaki Ki-100";"Kawasaki Heavy Industries";1945;395
+"airplane";"Як-1";"ОКБ имени Яковлева";1940;8700
+"airplane";"Fairchild C-123 Provider";"Fairchild Aircraft";1949;307
+"airplane";"Learjet 24";"Learjet";1966;259
+"airplane";"Saab 18";"Saab AB";1944;245
+"airplane";"Piper PA-16 Clipper";"Piper Aircraft";1949;736
+"airplane";"Fokker 50";"Fokker";1987;213
+"airplane";"Hawker Siddeley HS-125";"De Havilland";1962;1000
+"airplane";"СОКО Ј-21 Јастреб";"СОКО";1967;121
+"airplane";"ТБ-3";"КБ Туполев";1932;819
+"airplane";"Pilatus PC-9";"Pilatus Aircraft";1984;250
+"airplane";"Avro Tudor";"Avro Aircraft";1945;38
+"airplane";"Douglas C-133 Cargomaster";"Douglas Aircraft Company";1956;50
+"airplane";"МиГ-29";"МиГ (компания)";1982;1600
+"airplane";"Р-6";"КБ Туполев";1931;411
+"airplane";"Ми-6";"Московский вертолётный завод имени М. Л. Миля";1960;925
+"airplane";"Lockheed JetStar";"Lockheed Corporation";1957;204
+"airplane";"Yokosuka D4Y Suisei";"1-й авиатехнический арсенал флота Йокосука";1942;2038
+"airplane";"Dassault Falcon 900";"Dassault Aviation";1984;260
+"airplane";"Fokker F27";"Fokker";1955;586
+"airplane";"И-250";"МиГ (компания)";1945;12
+"airplane";"Piper PA-24 Comanche";"Piper Aircraft";1957;4857
+"airplane";"Grumman OV-1 Mohawk";"Grumman Corporation";1959;380
+"airplane";"АНТ-3";"КБ Туполев";1926;103
+"airplane";"Bell 407";"Bell Helicopter Textron";1995;1082
+"airplane";"Mitsubishi F-2";"Mitsubishi Heavy Industries";1995;94
+"airplane";"Cessna 150";"Cessna";1958;23949
+"airplane";"PZL-104 Wilga";"PZL";1962;1000
+"airplane";"Learjet 23";"Learjet";1962;104
+"airplane";"Nakajima Ki-44 Shoki";"Nakajima";1940;1225
+"airplane";"Hawker Hurricane";"Austin Motor Company";1937;14533
+"airplane";"British Aerospace ATP";"British Aerospace";1988;64
+"airplane";"Avro Canada CF-105 Arrow";"Avro Canada";1957;5
+"airplane";"Airbus A300";"Airbus";1974;561
+"airplane";"Piper PA-18 Super Cub";"Piper Aircraft";1949;15000
+"airplane";"Су-25";"Сухой (компания)";1978;1024
+"airplane";"ATR 42";"Avions de Transport Regional";1984;422
+"airplane";"Douglas DC-8";"Douglas Aircraft Company";1958;556
+"airplane";"Embraer EMB 110 Bandeirante";"Embraer";1968;501
+"airplane";"Ан-225";"КБ Антонов";1988;1
+"airplane";"Short Stirling";"Austin Motor Company";1939;2383
+"airplane";"Lockheed T-33 Shooting Star";"Lockheed Corporation";1948;6557
+"airplane";"Aero L-29 Delfin";"Aero Vodochody";1963;3500
+"airplane";"И-16";"ЦКБ-39";1934;8644
+"airplane";"Avro Vulcan";"Avro Aircraft";1956;136
+"airplane";"Douglas F4D Skyray";"Douglas Aircraft Company";1950;422
+"airplane";"Airbus A330";"Airbus";1992;951
+"airplane";"Saab 35 Draken";"Saab AB";1955;644
+"airplane";"Hawker Siddeley HS-125";"Hawker Siddeley";1962;1000
+"airplane";"Grumman F-11 Tiger";"Grumman Corporation";1954;200
+"airplane";"Dassault/Dornier Alpha Jet";"Dassault Aviation";1973;480
+"airplane";"Nakajima Ki-43 Hayabusa";"Nakajima";1942;5919
+"airplane";"Ан-3";"КБ Антонов";1990;25
+"airplane";"И-180";"ЦКБ-39";1938;10
+"airplane";"Hawker Siddeley HS-125";"Raytheon";1962;1000
+"airplane";"МиГ-29К";"МиГ (компания)";2005;20
+"airplane";"Boeing E-3 Sentry";"Westinghouse Electric";1977;68
+"airplane";"Cessna 425";"Cessna";1980;236
+"airplane";"Dornier Do 24";"Aviolanda";1937;279
+"airplane";"Kawasaki OH-1 Ninja";"Kawasaki (авиакосмическое подразделение)";1996;34
+"airplane";"Republic P-43 Lancer";"Republic Aviation";1940;272
+"airplane";"Raytheon T-6 Texan II";"Hawker Beechcraft";2000;636
+"airplane";"Су-11";"Сухой (компания)";1962;108
+"airplane";"Sud-Aviation SA.321 Super-Frelon";"Aérospatiale";1962;99
+"airplane";"Як-42";"ОКБ имени Яковлева";1980;178
+"airplane";"McDonnell Douglas AH-64 Apache";"Hughes Helicopters";1983;1174
+"airplane";"North American T-28 Trojan";"North American Aviation";1950;1948
+"airplane";"Hughes OH-6 Cayuse";"Hughes Helicopters";1965;1420
+"airplane";"Aichi M6A Seiran";"Aichi";1943;28
+"airplane";"Shenyang J-11";"Shenyang Aircraft Corporation";1998;164
+"airplane";"Supermarine Spitfire";"Supermarine";1938;20351
+"airplane";"Douglas TBD Devastator";"Douglas Aircraft Company";1937;130
+"airplane";"Douglas C-54 Skymaster";"Douglas Aircraft Company";1942;1170
+"airplane";"Bell AH-1 Cobra";"Bell Helicopter Textron";1967;1116
+"airplane";"Douglas DC-4";"Douglas Aircraft Company";1942;1163
+"airplane";"Gulfstream G200";"Gulfstream";1997;250
+"airplane";"Bell AH-1 Super Cobra";"Bell Helicopter Textron";1;1271
+"airplane";"Airbus A380";"Airbus";2004;100
+"airplane";"FMA I.Ae. 24 Calquín";"FAdeA";1947;101
+"airplane";"Saab JAS 39 Gripen";"Saab AB";1987;235
+"airplane";"Kawasaki P-2J";"Kawasaki (авиакосмическое подразделение)";1966;83
+"airplane";"Shenyang J-8";"Shenyang Aircraft Corporation";1979;390
+"airplane";"Focke-Wulf Fw 200 Condor";"Focke-Wulf";1937;276
+"airplane";"McDonnell Douglas F-4 Phantom II";"McDonnell Douglas";1958;5195
+"airplane";"North American A-5 Vigilante";"North American Aviation";1956;156
+"airplane";"Aérospatiale Alouette II";"Aérospatiale";1956;1300
+"airplane";"IAR 80";"IAR";1940;346
+"airplane";"Grumman C-2 Greyhound";"Northrop Grumman Corporation";2;58
+"airplane";"Bell UH-1Y Venom";"Bell Helicopter Textron";2001;31
+"airplane";"Sud-Aviation Alouette III";"Aérospatiale";1961;2000
+"airplane";"Blériot III / IV";"Вуазен, Габриэль";1906;1
+"airplane";"ATR 72";"Avions de Transport Regional";1988;508
+"airplane";"Ан-30";"КБ Антонов";1971;123
+"airplane";"Sikorsky R-4";"Sikorsky Aircraft";1942;131
+"airplane";"Cessna 120";"Cessna";1946;7664
+"airplane";"Supermarine Walrus";"Supermarine";1936;740
+"airplane";"МиГ-21";"МиГ (компания)";1959;11496
+"airplane";"Republic RC-3 Seabee";"Republic Aviation";1946;1060
+"airplane";"Tachikawa Ki-36";"Tachikawa";1938;1334
+"airplane";"Learjet 28";"Learjet";1977;5
+"airplane";"Avro Shackleton";"Avro Aircraft";1951;185
+"airplane";"Су-15";"Сухой (компания)";1965;1290
+"airplane";"Ту-114";"КБ Туполев";1958;32
+"airplane";"PZL P.7";"PZL";1932;149
+"airplane";"Airbus A400M";"Airbus Military";2007;6
+"airplane";"BAe 146";"BAE Systems";1978;387
+"airplane";"Avro Anson";"Avro Aircraft";1930;11020
+"airplane";"Avro Manchester";"Avro Aircraft";1940;202
+"airplane";"Mitsubishi A6M Zero";"Mitsubishi Heavy Industries";1940;10939
+"airplane";"Fokker E.I";"Fokker";1915;54
+"airplane";"Fairchild C-119 Flying Boxcar";"Fairchild Aircraft";1949;1183
+"airplane";"Hawker Siddeley Hawk";"Hawker Siddeley";1974;1000
+"airplane";"Douglas DC-3";"Douglas Aircraft Company";1936;607
+"airplane";"Saab 32 Lansen";"Saab AB";1953;450
+"airplane";"Consolidated B-32 Dominator";"Consolidated Aircraft Corporation";1944;118
+"airplane";"Ка-26";"Камов (ОАО)";1966;850
+"airplane";"Zlin Z-43";"Moravan";1972;80
+"airplane";"Nakajima Ki-49 Donryu";"Nakajima";1941;819
+"airplane";"Saab 91 Safir";"Saab AB";1946;323
+"airplane";"Vought F7U Cutlass";"Vought";1948;320
+"airplane";"Boeing 747SP";"Boeing";1976;45
+"airplane";"PZL.23 Karaś";"PZL";1936;250
+"airplane";"Douglas A-20 Havoc";"Douglas Aircraft Company";1939;7478
+"airplane";"Airbus A320";"Airbus";1988;5467
+"airplane";"Boeing B-52 Stratofortress";"Boeing";1952;744
+"airplane";"McDonnell Douglas DC-9";"McDonnell Douglas";1965;976
+"airplane";"М-4 (самолёт)";"ОКБ Мясищева";93;2
+"airplane";"Embraer ERJ 145";"Embraer";1989;890
+"airplane";"Hawker 800";"Raytheon";1983;650
+"airplane";"Sud-Aviation Gazelle";"Aérospatiale";1967;1775
+"airplane";"Aérospatiale N 262";"Aérospatiale";1962;110
+"airplane";"Cessna 340";"Cessna";1971;1351
+"airplane";"Saab 37 Viggen";"Saab AB";1970;329
+"airplane";"Blériot III / IV";"Блерио, Луи";1906;1
+"airplane";"VEF I-12";"VEF (фабрика)";1935;12
+"airplane";"Avro Lancastrian";"Avro Aircraft";1943;91
+"airplane";"McDonnell Douglas F-4 Phantom II";"McDonnell Aircraft Corporation";1958;5195
+"airplane";"Bell 430";"Bell Helicopter Textron";1996;136
+"airplane";"Alenia C-27 Spartan";"Alenia Aeronautica";1997;52
+"airplane";"И-153";"ЦКБ-39";1939;3437
+"airplane";"Breda Ba.88 Lince";"Breda (компания)";1936;149
+"airplane";"Agusta A129 Mangusta";"AgustaWestland";1980;60
+"airplane";"Avrocar";"Avro Canada";1958;2
+"airplane";"Ту-144";"КБ Туполев";1968;16
+"airplane";"Dornier Do 24";"Dornier";1937;279
+"airplane";"McDonnell Douglas MD-11";"McDonnell Douglas";1988;200
+"airplane";"ДБ-3";"Авиационный комплекс имени С. В. Ильюшина";1936;1528
+"airplane";"Hawker Siddeley HS-125";"Hawker Beechcraft";1962;1000
+"airplane";"Embraer EMB 120 Brasilia";"Embraer";1983;354
+"airplane";"Cessna 404";"Cessna";1976;396
+"airplane";"Let L-200 Morava";"Let Kunovice";1957;367
+"airplane";"McDonnell Douglas AV-8B Harrier II";"Boeing";1981;323
+"airplane";"McDonnell Douglas MD-80";"McDonnell Douglas";1979;1191
+"airplane";"Hawker 800";"British Aerospace";1983;650
+"airplane";"Saab 340";"Saab AB";1983;459
+"airplane";"Fokker 70";"Fokker";1992;47
+"airplane";"Embraer Phenom 100";"Embraer";2007;269
+"airplane";"Airbus A340";"Airbus";1993;377
+"airplane";"Cessna 170";"Cessna";1948;5174
+"airplane";"McDonnell Douglas AV-8B Harrier II";"British Aerospace";1981;323
+"airplane";"Bell 214ST Super Transport";"Bell Helicopter Textron";1979;96
+"airplane";"Avro Vulcan";"Hawker Siddeley";1956;136
+"airplane";"Cessna A-37 Dragonfly";"Cessna";1963;577
+"airplane";"Convair 880";"Convair";1959;65
+"airplane";"De Havilland Mosquito";"De Havilland";1940;7781
+"airplane";"McDonnell Douglas MD-11";"Boeing";1988;200
+"airplane";"Ил-10";"Avia";1944;6166
+"airplane";"Douglas DC-7";"Douglas Aircraft Company";1953;338
+"airplane";"Cessna 750 Citation X";"Cessna";1996;330
+"airplane";"Ан-28";"КБ Антонов";1975;191
+"airplane";"Dassault Mirage IIIV";"Dassault Aviation";1965;2
+"airplane";"Lockheed L-188 Electra";"Lockheed Corporation";1957;170
+"airplane";"Су-27";"Сухой (компания)";1984;680
+"airplane";"Grumman G-73 Mallard";"Grumman Corporation";1946;59
+"airplane";"Як-23";"ОКБ имени Яковлева";1949;310
+"airplane";"Су-17";"Сухой (компания)";1969;2867
+"airplane";"Aérospatiale Alouette II";"Sud Aviation";1956;1300
+"airplane";"Potez XV";"Potez";1923;545
+"airplane";"Lockheed P-38 Lightning";"Lockheed Corporation";1941;10037
+"airplane";"Boeing VC-25";"Boeing";1986;2
+"airplane";"Piper J-3 Cub";"Piper Aircraft";1938;19888
+"airplane";"Kawasaki Ki-56";"Kawasaki (авиакосмическое подразделение)";1940;121
+"airplane";"Grumman HU-16 Albatross";"Grumman Corporation";1949;466
+"airplane";"Cessna 152";"Cessna";1977;7584
+"airplane";"Cessna 500";"Cessna";1969;689
+"airplane";"BAC 1-11";"British Aircraft Corporation";1963;244
+"airplane";"Breda Ba.65";"Breda (компания)";1935;218
+"airplane";"Ил-10";"Авиационный комплекс имени С. В. Ильюшина";1944;6166
+"airplane";"Avro York";"Avro Aircraft";1943;259
+"airplane";"Ту-22";"КБ Туполев";1960;311
+"airplane";"PZL.43 Czajka";"PZL";1937;52
+"airplane";"Dassault Falcon 10";"Dassault Aviation";1970;226
+"airplane";"Dassault Mercure";"Dassault Aviation";1971;12
+"airplane";"Eurocopter UH-72 Lakota";"Eurocopter";2006;243
+"airplane";"HAL LCH";"Hindustan Aeronautics";2010;3
+"airplane";"Ил-2";"Авиационный комплекс имени С. В. Ильюшина";1941;36183
+"airplane";"Ту-124";"КБ Туполев";1960;164
+"airplane";"Douglas B-18 Bolo";"Douglas Aircraft Company";1936;350
+"airplane";"Saab 2000";"Saab AB";1994;63
+"airplane";"IAI Westwind";"IAI";1965;442
+"airplane";"Dornier Do 24";"Potez";1937;279
+"airplane";"Douglas A-1 Skyraider";"Douglas Aircraft Company";1945;3180
+"airplane";"Ту-334";"Объединённая авиастроительная корпорация";1999;2
+"airplane";"Dassault Mystère IV";"Dassault Aviation";1953;411
+"airplane";"Cessna 337 Skymaster";"Cessna";1963;2993
+"airplane";"Fairchild Republic A-10 Thunderbolt II";"Fairchild Aircraft";1972;716
+"airplane";"Lockheed L-1011 TriStar";"Lockheed Corporation";1968;250
+"airplane";"Douglas A-3 Skywarrior";"Douglas Aircraft Company";1956;282
+"airplane";"Ан-2";"КБ Антонов";1947;18000
+"airplane";"Ан-24";"КБ Антонов";1959;1367
+"airplane";"FMA IA 58 Pucará";"FAdeA";1976;150
+"airplane";"Grumman F6F Hellcat";"Grumman Corporation";1942;12275
+"airplane";"Су-34";"Сухой (компания)";2006;32
+"airplane";"Lockheed C-141 Starlifter";"Lockheed Corporation";1963;285
+"airplane";"McDonnell Douglas C-17 Globemaster III";"McDonnell Douglas";1991;250
+"airplane";"ТБ-1";"КБ Туполев";1929;218
+"airplane";"Embraer E-Jet";"Embraer";2001;908
+"airplane";"Ту-4";"КБ Туполев";1949;847
+"airplane";"Bell V-22 Osprey";"Bell Helicopter Textron";1988;160
+"airplane";"Бе-30";"Таганрогский авиационный научно-технический комплекс имени Г. М. Бериева";1968;8
+"airplane";"Ту-123";"КБ Туполев";1964;52
+"airplane";"Bell 47";"Bell Helicopter Textron";1946;5600
+"airplane";"Henschel Hs 132";"Henschel-Werke";1945;4
+"airplane";"Ту-134";"КБ Туполев";1966;852
+"airplane";"Hawker Siddeley Hawk";"British Aerospace";1974;1000
+"airplane";"Ил-78";"Авиационный комплекс имени С. В. Ильюшина";1984;53
+"airplane";"Fairchild Swearingen Metroliner";"Fairchild Aircraft";1968;600
+"airplane";"Бе-6";"Таганрогский авиационный научно-технический комплекс имени Г. М. Бериева";1949;123
+"airplane";"Aichi B7A Ryusei";"Aichi";1941;114
+"airplane";"British Aerospace Jetstream 41";"British Aerospace";1992;100
+"airplane";"BAe 146";"British Aerospace";1978;387
+"airplane";"Dornier Do 228";"Dornier";1981;270
+"airplane";"Су-7";"Сухой (компания)";1957;1847
+"airplane";"Vought VE-7";"Vought";1918;128
+"airplane";"Kawanishi H8K";"Kawanishi";1941;167
+"airplane";"Northrop T-38 Talon";"Northrop Corporation";1961;1146
+"airplane";"Shenyang J-6";"Shenyang Aircraft Corporation";1958;3000
+"airplane";"Hawker 800";"Hawker Beechcraft";1983;650
+"airplane";"IAI Arava";"IAI";1972;103
+"airplane";"Boeing B-29 Superfortress";"Boeing";1943;3970
+"airplane";"Cessna 177";"Cessna";1968;4295
+"airplane";"Saab 17";"Saab AB";1941;323
+"airplane";"Junkers Ju 52";"Junkers";1931;4845
+"airplane";"Ту-2";"КБ Туполев";1941;2257
+"airplane";"Bell OH-58 Kiowa";"Bell Helicopter Textron";1966;2200
+"airplane";"Бе-10";"Таганрогский авиационный научно-технический комплекс имени Г. М. Бериева";1958;28
+"airplane";"Як-40";"ОКБ имени Яковлева";1967;1011
+"airplane";"Sopwith Pup";"Sopwith (компания)";1916;1770
+"airplane";"СОКО Ј-20 Крагуј";"СОКО";1968;85
+"airplane";"Ла-9";"НПО имени С. А. Лавочкина";1946;1559
+"airplane";"Boeing EA-18 Growler";"Boeing";2004;96
+"airplane";"Embraer EMB 312 Tucano";"Embraer";1980;664
+"airplane";"Су-30";"Сухой (компания)";1990;362
+"airplane";"Dassault Falcon 50";"Dassault Aviation";1976;352
+"airplane";"Boeing Model 6";"Boeing";1919;1
+"airplane";"Cessna 310";"Cessna";1954;6321
+"airplane";"Douglas DC-8";"McDonnell Douglas";1958;556
