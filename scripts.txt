@@ -124,3 +124,16 @@ WHERE {
  FILTER( ?runTime > 300 )
 } 
 GROUP BY ?title year(?r)
+
+# Книги
+SELECT "book" ?title ?pages ?cRu ?rd
+WHERE {
+ ?b a do:Book .
+ ?b rdfs:label ?title . 
+ ?b do:numberOfPages ?pages . 
+ ?b do:country ?c . ?c rdfs:label ?cRu .
+ ?b dbpedia2:releaseDate ?rd . 
+ FILTER ( langMatches(lang(?title), "ru") )
+ FILTER ( langMatches(lang(?cRu), "ru") )
+ FILTER ( isNumeric(?rd) && ?rd < 3000 && ?rd > 1000)
+} 
